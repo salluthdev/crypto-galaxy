@@ -29,7 +29,7 @@ header
 	top: 0;
 	left: 0;
 	width: 100%;
-	padding: 10px 40px;
+	padding: 8px 58px;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -38,7 +38,7 @@ header
 header .logo img
 {
 	position: absolute;
-	top: 10px;
+	top: 8px;
 	max-width: 60px;
 	border-radius: 50%;
 }
@@ -62,6 +62,7 @@ header ul li
 	list-style: none;
 	display: flex;
 	margin: 0 40px;
+	letter-spacing: 1.2px;
 }
 header ul li a
 {
@@ -70,7 +71,6 @@ header ul li a
 header ul li a:hover
 {
 	border-bottom: 1px solid #888fe8;
-	font-weight: bold;
 	text-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 header .auth
@@ -84,12 +84,33 @@ header .auth a, header ul li a
 	font-weight: 600;
 	font-size: 18px;
 }
+header .auth .signUp
+{
+	margin-right: 20px;
+}
 header .auth .signIn a
 {
-	text-decoration: none;
-	background: #888fe8;
-	border-radius: 25px;
-	padding: 10px 20px;
+	position: relative;
+	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
+	border-radius: 18px;
+	padding: 12px 32px;
+}
+header .auth .signIn a::before
+{
+	content: '';
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	border-radius: 18px;
+  	border: 1.4px solid transparent;
+  	background:linear-gradient(180deg,rgba(180, 112, 255, 1),rgba(255, 54, 143, 1)) border-box;
+  	-webkit-mask:
+    	linear-gradient(#fff 0 0) padding-box, 
+    	linear-gradient(#fff 0 0);
+  	-webkit-mask-composite: destination-out;
+  	mask-composite: exclude;
 }
 header .auth a:hover
 {
