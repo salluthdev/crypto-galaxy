@@ -132,17 +132,20 @@ header .auth a:hover
 	position: relative;
 	max-width: 600px;
 	margin-right: 10px;
-	margin-top: 110px;
+}
+.inline
+{
+	display: flex;
+	justify-content: left;
+	align-items: center;
 }
 .content .textBox img
 {
-	max-width: 290px;
-	margin-bottom: 20px;
+	width: 32px;
 }
 .content .textBox p
 {
-	color: #868797;
-	font-size: 1.1em;
+	color: #ebe4fb;
 }
 .content .textBox a
 {
