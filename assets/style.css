@@ -44,10 +44,11 @@ header .logo img
 }
 header .logo h2
 {
-	width: 108px;
+	width: 112px;
 	color: #fff;
 	margin-left: 80px;
 	font-weight: 800;
+	letter-spacing: 2px;
 }
 header ul
 {
@@ -65,9 +66,6 @@ header ul li
 header ul li a
 {
 	display: inline-block;
-	color: #f9fafc;
-	text-decoration: none;
-	font-weight: 500;
 }
 header ul li a:hover
 {
@@ -79,11 +77,16 @@ header .auth
 {
 	display: flex;
 }
-header .auth a
+header .auth a, header ul li a
 {
-	color: #f9fafc;
+	color: #f9f8fd;
 	text-decoration: none;
-	font-weight: 500;
+	font-weight: 600;
+	font-size: 18px;
+}
+header .auth .signIn a
+{
+	text-decoration: none;
 	background: #888fe8;
 	border-radius: 25px;
 	padding: 10px 20px;
