@@ -21,7 +21,8 @@ section
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	background: #2b2b45;
+	background: rgba(29, 18, 58, 1);
+	background-image: url('img/bg.svg');
 }
 header
 {
