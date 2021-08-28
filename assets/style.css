@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+	font-family: 'Exo', sans-serif;
+}
+body
+{
+	overflow-x: hidden;
+}
+section
+{
+	position: relative;
+	width: 100%;
+	min-height: 100vh;
+	padding: 70px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background: #2b2b45;
+}
+header
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 0 40px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 14px;
+}
+header .logo img
+{
+	position: absolute;
+	top: 0;
+	max-width: 60px;
+	border-radius: 50%;
+}
+header .logo h2
+{
+	width: 108px;
+	color: #fff;
+	margin-left: 80px;
+	font-weight: 800;
+}
+header ul
+{
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+header ul li
+{
+	list-style: none;
+	display: flex;
+	margin-left: 40px;
+}
+header ul li a
+{
+	display: inline-block;
+	color: #f9fafc;
+	text-decoration: none;
+	font-weight: 500;
+}
+header ul li a:hover
+{
+	border-bottom: 1px solid #888fe8;
+	font-weight: bold;
+	text-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+header .login a
+{
+	color: #f9fafc;
+	text-decoration: none;
+	font-weight: 500;
+	background: #888fe8;
+	border-radius: 25px;
+	padding: 10px 20px;
+}
+header .login a:hover
+{
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+.content
+{
+	position: relative;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.content .textBox
+{
+	position: relative;
+	max-width: 600px;
+	margin-right: 10px;
+	margin-top: 110px;
+}
+.content .textBox img
+{
+	max-width: 290px;
+	margin-bottom: 20px;
+}
+.content .textBox p
+{
+	color: #868797;
+	font-size: 1.1em;
+}
+.content .textBox a
+{
+	display: inline-block;
+	margin: 25px 25px 0px 25px;
+	padding: 15px 50px;
+	color: #f9fafc;
+	border-radius: 25px;
+	font-size: 1em;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-decoration: none;
+	width: 200px;
+	text-align: center;
+}
+.content .textBox .trial a
+{
+	border: 1px solid #f9fafc;
+}
+.content .textBox .trial a:hover
+{
+	background: #888fe8;
+	border: 0px;
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+.content .textBox .buy a
+{
+	background: #888fe8;
+}
+.content .textBox .buy a:hover
+{
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+.content .imgBox
+{
+	position: relative;
+	width: 500px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.content .imgBox img
+{
+	position: relative;
+	max-width: 500px;
+	margin-left: 120px;
+}
