@@ -29,7 +29,7 @@ header
 	top: 0;
 	left: 0;
 	width: 100%;
-	padding: 0 40px;
+	padding: 10px 40px;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -38,7 +38,7 @@ header
 header .logo img
 {
 	position: absolute;
-	top: 0;
+	top: 10px;
 	max-width: 60px;
 	border-radius: 50%;
 }
@@ -60,7 +60,7 @@ header ul li
 {
 	list-style: none;
 	display: flex;
-	margin-left: 40px;
+	margin: 0 40px;
 }
 header ul li a
 {
@@ -75,7 +75,11 @@ header ul li a:hover
 	font-weight: bold;
 	text-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
 }
-header .login a
+header .auth
+{
+	display: flex;
+}
+header .auth a
 {
 	color: #f9fafc;
 	text-decoration: none;
@@ -84,7 +88,7 @@ header .login a
 	border-radius: 25px;
 	padding: 10px 20px;
 }
-header .login a:hover
+header .auth a:hover
 {
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
 }
