@@ -23,6 +23,7 @@ section
 	align-items: center;
 	background: rgba(29, 18, 58, 1);
 	background-image: url('img/bg.svg');
+	background-size: cover;
 }
 header
 {
@@ -125,7 +126,8 @@ header .auth a:hover
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
+	align-items: flex-start;
+	margin-top: 120px;
 }
 .content .textBox
 {
@@ -133,19 +135,26 @@ header .auth a:hover
 	max-width: 600px;
 	margin-right: 10px;
 }
+.content .textBox .inline
+{
+	margin-top: 60px;
+}
 .inline
 {
 	display: flex;
 	justify-content: left;
 	align-items: center;
 }
-.content .textBox img
+.content .textBox .inline img
 {
 	width: 32px;
+	margin-right: 12px;
 }
-.content .textBox p
+.content .textBox .inline p
 {
 	color: #ebe4fb;
+	font-weight: 600;
+	font-size: 18px;
 }
 .content .textBox a
 {
