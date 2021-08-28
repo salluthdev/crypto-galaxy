@@ -17,7 +17,7 @@ section
 	position: relative;
 	width: 100%;
 	min-height: 100vh;
-	padding: 70px;
+	padding: 60px;
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
@@ -30,7 +30,7 @@ header
 	top: 0;
 	left: 0;
 	width: 100%;
-	padding: 8px 58px;
+	padding: 8px 60px;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -177,7 +177,6 @@ header .auth a:hover
 .content .imgBox
 {
 	position: relative;
-	width: 500px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -185,6 +184,5 @@ header .auth a:hover
 .content .imgBox img
 {
 	position: relative;
-	max-width: 500px;
-	margin-left: 120px;
+	max-width: 280px;
 }
