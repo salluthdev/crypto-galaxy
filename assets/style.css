@@ -30,7 +30,7 @@ header
 	top: 0;
 	left: 0;
 	width: 100%;
-	padding: 8px 60px;
+	padding: 12px 60px;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -39,17 +39,19 @@ header
 header .logo img
 {
 	position: absolute;
-	top: 8px;
-	max-width: 60px;
+	top: 12px;
+	width: 58px;
 	border-radius: 50%;
 }
 header .logo h2
 {
 	width: 112px;
+	font-size: 24px;
 	color: #fff;
 	margin-left: 80px;
 	font-weight: 800;
 	letter-spacing: 2px;
+	line-height: 30px;
 }
 header ul
 {
@@ -62,8 +64,8 @@ header ul li
 {
 	list-style: none;
 	display: flex;
-	margin: 0 40px;
-	letter-spacing: 1.2px;
+	margin: 0 36px;
+	letter-spacing: 1.4px;
 }
 header ul li a
 {
@@ -87,14 +89,14 @@ header .auth a, header ul li a
 }
 header .auth .signUp
 {
-	margin-right: 20px;
+	margin-right: 28px;
 }
 header .auth .signIn a
 {
 	position: relative;
 	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
-	border-radius: 18px;
-	padding: 12px 32px;
+	border-radius: 14px;
+	padding: 13.2px 32px;
 }
 header .auth .signIn a::before
 {
@@ -104,7 +106,7 @@ header .auth .signIn a::before
 	bottom: 0;
 	right: 0;
 	position: absolute;
-	border-radius: 18px;
+	border-radius: 14px;
   	border: 1.4px solid transparent;
   	background:linear-gradient(180deg,rgba(180, 112, 255, 1),rgba(255, 54, 143, 1)) border-box;
   	-webkit-mask:
