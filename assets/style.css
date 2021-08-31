@@ -180,6 +180,8 @@ header .auth a:hover
 .content .textBox .button
 {
 	margin-top: 40px;
+	display: inline-flex;
+	align-items: center;
 }
 .content .textBox .button a
 {
@@ -199,7 +201,15 @@ header .auth a:hover
 }
 .content .textBox .button .tutorial
 {
+	display: inline-flex;
+	align-items: center;
 	margin-left: 40px;
+}
+.content .textBox .button .tutorial img
+{
+	background: linear-gradient(180deg, #372763 0%, #0F0723 100%);
+	padding: 14px;
+	border-radius: 50%;
 }
 .content .imgBox
 {
