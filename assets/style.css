@@ -156,7 +156,7 @@ header .auth a:hover
 }
 .content .textBox h2
 {
-	font-size: 54px;
+	font-size: 60px;
 	font-weight: 800;
 	margin: 20px 0;
 }
@@ -165,16 +165,17 @@ header .auth a:hover
 	color: #f9f8fd;
 	letter-spacing: 2px;
 }
+.textBox .icon-title img
+{
+	width: 48px;
+	margin: 0 8px;
+}
 .content .textBox p
 {
 	font-size: 16px;
 	font-weight: 300;
 	word-spacing: 2px;
 	line-height: 28px;
-}
-.content .textBox .icon-title img
-{
-	width: 24px;
 }
 .content .textBox a
 {
