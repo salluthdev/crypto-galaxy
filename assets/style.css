@@ -172,6 +172,10 @@ header .auth a:hover
 	word-spacing: 2px;
 	line-height: 28px;
 }
+.content .textBox .icon-title img
+{
+	width: 24px;
+}
 .content .textBox a
 {
 	display: inline-block;
