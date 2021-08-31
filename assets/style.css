@@ -170,6 +170,7 @@ header .auth a:hover
 	font-size: 16px;
 	font-weight: 300;
 	word-spacing: 2px;
+	line-height: 28px;
 }
 .content .textBox a
 {
