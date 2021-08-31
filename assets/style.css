@@ -97,6 +97,7 @@ header .auth .signIn a
 	position: relative;
 	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
 	border-radius: 14px;
+	border-color: 1px solid red;
 	padding: 14px 32px;
 }
 header .auth .signIn a::before
@@ -109,7 +110,7 @@ header .auth .signIn a::before
 	position: absolute;
 	border-radius: 14px;
   	border: 1.4px solid transparent;
-  	background:linear-gradient(180deg,rgba(180, 112, 255, 1),rgba(255, 54, 143, 1)) border-box;
+  	background: linear-gradient(180deg,rgba(180, 112, 255, 1),rgba(255, 54, 143, 1)) border-box;
   	-webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
   	-webkit-mask-composite: destination-out;
   	mask-composite: exclude;
@@ -207,9 +208,11 @@ header .auth a:hover
 }
 .content .textBox .button .tutorial img
 {
-	background: linear-gradient(180deg, #372763 0%, #0F0723 100%);
+	position: relative;
+	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
 	padding: 14px;
 	border-radius: 50%;
+	border: 1.4px solid #ff368f;
 	margin-right: 12px;
 }
 .content .imgBox
