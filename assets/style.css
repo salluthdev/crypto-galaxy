@@ -21,7 +21,7 @@ section
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	background: rgba(29, 18, 58, 1);
+	background: #1e133a;
 	background-image: url('img/bg.svg');
 	background-size: cover;
 	letter-spacing: 1.4px;
@@ -158,11 +158,17 @@ header .auth a:hover
 {
 	font-size: 54px;
 	font-weight: 800;
-	letter-spacing: 2px;
 }
 .content .textBox h2, .content .textBox p
 {
 	color: #f9f8fd;
+	letter-spacing: 2px;
+}
+.content .textBox p
+{
+	font-size: 16px;
+	font-weight: 300;
+	word-spacing: 2px;
 }
 .content .textBox a
 {
