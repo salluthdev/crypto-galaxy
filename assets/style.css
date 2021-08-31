@@ -97,7 +97,7 @@ header .auth .signIn a
 	position: relative;
 	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
 	border-radius: 14px;
-	padding: 13.2px 32px;
+	padding: 14px 32px;
 }
 header .auth .signIn a::before
 {
@@ -221,9 +221,6 @@ header .auth a:hover
 {
 	header .auth a, header ul li a
 	{
-		color: #f9f8fd;
-		text-decoration: none;
-		font-weight: 600;
 		font-size: 16px;
 	}
 }
