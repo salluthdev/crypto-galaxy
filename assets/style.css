@@ -195,13 +195,10 @@ header .auth a:hover
 }
 .content .textBox .mine a
 {
-	border: 1px solid #f9fafc;
-	background: #888fe8;
+	background: linear-gradient(176.82deg, #b470ff -17.42%, #ff368f 153.52%);;
 }
 .content .textBox .mine a:hover
 {
-	background: #888fe8;
-	border: 0px;
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 .content .imgBox
