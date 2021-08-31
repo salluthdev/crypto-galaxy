@@ -24,6 +24,7 @@ section
 	background: rgba(29, 18, 58, 1);
 	background-image: url('img/bg.svg');
 	background-size: cover;
+	letter-spacing: 1.4px;
 }
 header
 {
@@ -66,7 +67,6 @@ header ul li
 	list-style: none;
 	display: flex;
 	margin: 0 36px;
-	letter-spacing: 1.4px;
 }
 header ul li a
 {
@@ -155,6 +155,10 @@ header .auth a:hover
 	color: #ebe4fb;
 	font-weight: 600;
 	font-size: 18px;
+}
+.content .textBox h2, .content .textBox p
+{
+	color: #f9f8fd;
 }
 .content .textBox a
 {
