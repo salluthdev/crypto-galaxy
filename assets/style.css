@@ -97,7 +97,6 @@ header .auth .signIn a
 	position: relative;
 	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
 	border-radius: 14px;
-	border-color: 1px solid red;
 	padding: 14px 32px;
 }
 header .auth .signIn a::before
@@ -206,14 +205,36 @@ header .auth a:hover
 	align-items: center;
 	margin-left: 40px;
 }
-.content .textBox .button .tutorial img
+.content .textBox .button .tutorial a:nth-child(1)
 {
 	position: relative;
 	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
 	padding: 14px;
 	border-radius: 50%;
-	border: 1.4px solid #ff368f;
 	margin-right: 12px;
+	width: 40px;
+	height: 40px;
+}
+.content .textBox .button .tutorial a:nth-child(1)::before
+{
+	content: '';
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	border-radius: 50%;
+  	border: 1.4px solid transparent;
+  	background: linear-gradient(180deg,rgba(180, 112, 255, 1),rgba(255, 54, 143, 1)) border-box;
+  	-webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+  	-webkit-mask-composite: destination-out;
+  	mask-composite: exclude;
+}
+.content .textBox .button .tutorial img
+{
+	position: absolute;
+	left: 14px;
+	top: 12px;
 }
 .content .imgBox
 {
