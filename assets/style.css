@@ -210,6 +210,7 @@ header .auth a:hover
 	background: linear-gradient(180deg, #372763 0%, #0F0723 100%);
 	padding: 14px;
 	border-radius: 50%;
+	margin-right: 12px;
 }
 .content .imgBox
 {
