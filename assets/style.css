@@ -177,10 +177,9 @@ header .auth a:hover
 	word-spacing: 2px;
 	line-height: 28px;
 }
-.content .textBox a
+.content .textBox .button a
 {
 	display: inline-block;
-	margin: 25px 25px 0px 25px;
 	padding: 15px 50px;
 	color: #f9fafc;
 	border-radius: 25px;
@@ -188,25 +187,17 @@ header .auth a:hover
 	font-weight: bold;
 	letter-spacing: 1px;
 	text-decoration: none;
-	width: 200px;
 	text-align: center;
 }
-.content .textBox .trial a
+.content .textBox .mine a
 {
 	border: 1px solid #f9fafc;
+	background: #888fe8;
 }
-.content .textBox .trial a:hover
+.content .textBox .mine a:hover
 {
 	background: #888fe8;
 	border: 0px;
-	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
-}
-.content .textBox .buy a
-{
-	background: #888fe8;
-}
-.content .textBox .buy a:hover
-{
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 .content .imgBox
