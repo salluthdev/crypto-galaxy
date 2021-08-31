@@ -177,6 +177,10 @@ header .auth a:hover
 	word-spacing: 2px;
 	line-height: 28px;
 }
+.content .textBox .button
+{
+	margin-top: 40px;
+}
 .content .textBox .button a
 {
 	display: inline-block;
