@@ -184,7 +184,6 @@ header .auth a:hover
 .content .textBox .button a
 {
 	display: inline-block;
-	padding: 15px 50px;
 	color: #f9fafc;
 	font-size: 21px;
 	font-weight: bold;
@@ -195,11 +194,8 @@ header .auth a:hover
 .content .textBox .button .mine a
 {
 	border-radius: 18px;
-	background: linear-gradient(176.82deg, #b470ff -17.42%, #ff368f 153.52%);;
-}
-.content .textBox .button .mine a:hover
-{
-	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
+	background: linear-gradient(176.82deg, #b470ff -17.42%, #ff368f 153.52%);
+	padding: 24px 48px;
 }
 .content .imgBox
 {
