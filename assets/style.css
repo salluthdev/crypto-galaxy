@@ -86,7 +86,7 @@ header .auth a, header ul li a
 	color: #f9f8fd;
 	text-decoration: none;
 	font-weight: 600;
-	font-size: 16.8px;
+	font-size: 18px;
 }
 header .auth .signUp
 {
@@ -215,4 +215,15 @@ header .auth a:hover
 {
 	position: relative;
 	max-width: 280px;
+}
+
+@media (max-width: 1367px)
+{
+	header .auth a, header ul li a
+	{
+		color: #f9f8fd;
+		text-decoration: none;
+		font-weight: 600;
+		font-size: 16px;
+	}
 }
