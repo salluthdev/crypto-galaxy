@@ -197,6 +197,10 @@ header .auth a:hover
 	background: linear-gradient(176.82deg, #b470ff -17.42%, #ff368f 153.52%);
 	padding: 24px 48px;
 }
+.content .textBox .button .tutorial
+{
+	margin-left: 40px;
+}
 .content .imgBox
 {
 	position: relative;
