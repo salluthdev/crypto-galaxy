@@ -157,6 +157,8 @@ header .auth a:hover
 .content .textBox .star_title img
 {
 	position: absolute;
+	top: 80px;
+	right: -40px;
 }
 .content .textBox h2
 {
