@@ -44,7 +44,7 @@ header
 	width: 267px;
 	height: 267px;
 	left: -53px;
-	top: -21px;
+	top: -210px;
 	background: #d9aafa;
 	filter: blur(350px);
 }
@@ -290,6 +290,16 @@ header .auth a:hover
 	right: 0;
 	width: 430px;
 	z-index: 1;
+}
+.blur_02
+{
+	position: absolute;
+	width: 227px;
+	height: 227px;
+	right: -180px;
+	top: 0;
+	background: #75408E;
+	filter: blur(150px);
 }
 
 @media (max-width: 1367px)
