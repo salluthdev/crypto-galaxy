@@ -216,7 +216,7 @@ header .auth a:hover
 .content .textBox .button .tutorial a
 {
 	font-weight: 500;
-	font-size: 19.4px;
+	font-size: 19px;
 }
 .content .textBox .button .tutorial a:nth-child(1)
 {
@@ -313,8 +313,8 @@ header .auth a:hover
 	}
 	.content .textBox .star_title img
 	{
-		top: 60px;
-		right: -40px;
+		top: 52px;
+		right: 12px;
 		width: 40px;
 		height: 40px;
 	}
@@ -334,6 +334,62 @@ header .auth a:hover
 		line-height: 32px;
 		margin: 30px 80px 10px 0;
 	}
+	.content .textBox .button
+	{
+		margin-top: 26px;
+	}
+	.content .textBox .button a
+	{
+		font-size: 18px;
+	}
+.content .textBox .button .mine a
+{
+	border-radius: 18px;
+	background: linear-gradient(176.82deg, #b470ff -17.42%, #ff368f 153.52%);
+	padding: 22px 46px;
+}
+.content .textBox .button .tutorial
+{
+	display: inline-flex;
+	align-items: center;
+	margin-left: 40px;
+}
+.content .textBox .button .tutorial a
+{
+	font-weight: 500;
+	font-size: 19px;
+}
+.content .textBox .button .tutorial a:nth-child(1)
+{
+	position: relative;
+	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
+	padding: 23px;
+	border-radius: 50%;
+	margin-right: 12px;
+}
+.content .textBox .button .tutorial a:nth-child(1)::before
+{
+	content: '';
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	border-radius: 50%;
+  	border: 1.5px solid transparent;
+  	background: linear-gradient(180deg,rgba(180, 112, 255, 1),rgba(255, 54, 143, 1)) border-box;
+  	-webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+  	-webkit-mask-composite: destination-out;
+  	mask-composite: exclude;
+}
+.content .textBox .button .tutorial img
+{
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 16px;
+	top: 14.5px;
+}
 	.content .imgBox img:nth-child(1)
 	{
 		right: 80px;
