@@ -287,8 +287,8 @@ header .auth a:hover
 {
 	header .logo img
 	{
-		top: 16px;
-		width: 52px;
+		top: 15px;
+		width: 54px;
 	}
 	header .logo h2
 	{
@@ -325,16 +325,11 @@ header .auth a:hover
 		line-height: 80px;
 		margin: 0;
 	}
-.content .textBox h2, .content .textBox p
-{
-	color: #f9f8fd;
-	letter-spacing: 2px;
-}
-.textBox .icon-title img
-{
-	width: 48px;
-	margin: 0 8px;
-}
+	.textBox .icon-title img
+	{
+		width: 42px;
+		margin: 0 8px;
+	}
 .content .textBox p
 {
 	font-size: 18px;
