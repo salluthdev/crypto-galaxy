@@ -174,7 +174,8 @@ header .auth a:hover
 	font-size: 18px;
 	font-weight: 200;
 	word-spacing: 2px;
-	line-height: 28px;
+	line-height: 36px;
+	margin-right: 80px;
 }
 .content .textBox .button
 {
