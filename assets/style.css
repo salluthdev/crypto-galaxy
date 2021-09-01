@@ -342,14 +342,12 @@ header .auth a:hover
 	{
 		font-size: 18px;
 	}
-.content .textBox .button .mine a
-{
-	border-radius: 18px;
-	background: linear-gradient(176.82deg, #b470ff -17.42%, #ff368f 153.52%);
-	padding: 22px 46px;
-}
-.content .textBox .button .tutorial
-{
+	.content .textBox .button .mine a
+	{
+		padding: 20px 42px;
+	}
+	.content .textBox .button .tutorial
+	{
 	display: inline-flex;
 	align-items: center;
 	margin-left: 40px;
