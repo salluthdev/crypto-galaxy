@@ -125,7 +125,7 @@ header .auth a:hover
 	display: flex;
 	justify-content: space-between;
 	align-items: flex-start;
-	margin-top: 24px;
+	margin-top: 40px;
 }
 .content .textBox
 {
@@ -135,7 +135,7 @@ header .auth a:hover
 }
 .content .textBox .inline
 {
-	margin-top: 48px;
+	margin-top: 24px;
 }
 .inline
 {
@@ -153,19 +153,20 @@ header .auth a:hover
 	color: #ebe4fb;
 	font-weight: 600;
 	font-size: 20px;
+	margin: 0;
 }
 .content .textBox .star_title img
 {
 	position: absolute;
-	top: 76px;
+	top: 60px;
 	right: -40px;
 }
 .content .textBox h2
 {
 	font-size: 60px;
 	font-weight: 800;
-	margin: 10px 0 20px;
-	line-height: 84px;
+	line-height: 90px;
+	margin-top: 16px;
 }
 .content .textBox h2, .content .textBox p
 {
@@ -182,8 +183,8 @@ header .auth a:hover
 	font-size: 18px;
 	font-weight: 200;
 	word-spacing: 2px;
-	line-height: 36px;
-	margin-right: 80px;
+	line-height: 40px;
+	margin: 40px 80px 10px 0;
 }
 .content .textBox .button
 {
@@ -264,21 +265,21 @@ header .auth a:hover
 {
 	top: 0;
 	right: 110px;
-	width: 380px;
+	width: 370px;
 	z-index: 3;
 }
 .content .imgBox img:nth-child(2)
 {
 	top: 20px;
 	right: 55px;
-	width: 410px;
+	width: 400px;
 	z-index: 2;
 }
 .content .imgBox img:nth-child(3)
 {
 	top: 40px;
 	right: 0;
-	width: 440px;
+	width: 430px;
 	z-index: 1;
 }
 
