@@ -108,7 +108,7 @@ header .auth .signIn a::before
 	right: 0;
 	position: absolute;
 	border-radius: 14px;
-  	border: 1.4px solid transparent;
+  	border: 1.5px solid transparent;
   	background: linear-gradient(180deg,rgba(180, 112, 255, 1),rgba(255, 54, 143, 1)) border-box;
   	-webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
   	-webkit-mask-composite: destination-out;
@@ -205,15 +205,18 @@ header .auth a:hover
 	align-items: center;
 	margin-left: 40px;
 }
+.content .textBox .button .tutorial a
+{
+	font-weight: 500;
+	font-size: 18px;
+}
 .content .textBox .button .tutorial a:nth-child(1)
 {
 	position: relative;
 	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
-	padding: 14px;
+	padding: 20px;
 	border-radius: 50%;
 	margin-right: 12px;
-	width: 40px;
-	height: 40px;
 }
 .content .textBox .button .tutorial a:nth-child(1)::before
 {
@@ -224,7 +227,7 @@ header .auth a:hover
 	right: 0;
 	position: absolute;
 	border-radius: 50%;
-  	border: 1.4px solid transparent;
+  	border: 1.5px solid transparent;
   	background: linear-gradient(180deg,rgba(180, 112, 255, 1),rgba(255, 54, 143, 1)) border-box;
   	-webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
   	-webkit-mask-composite: destination-out;
