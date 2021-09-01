@@ -125,7 +125,6 @@ header .auth a:hover
 	display: flex;
 	justify-content: space-between;
 	align-items: flex-start;
-	margin-top: 80px;
 }
 .content .textBox
 {
@@ -135,7 +134,7 @@ header .auth a:hover
 }
 .content .textBox .inline
 {
-	margin-top: 40px;
+	margin-top: 60px;
 }
 .inline
 {
@@ -257,6 +256,19 @@ header .auth a:hover
 {
 	top: 0;
 	right: 200px;
+	z-index: 3;
+}
+.content .imgBox img:nth-child(2)
+{
+	top: 40px;
+	right: 120px;
+	z-index: 2;
+}
+.content .imgBox img:nth-child(3)
+{
+	top: 80px;
+	right: 40px;
+	z-index: 1;
 }
 
 @media (max-width: 1367px)
