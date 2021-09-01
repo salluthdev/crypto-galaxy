@@ -250,8 +250,13 @@ header .auth a:hover
 }
 .content .imgBox img
 {
-	position: relative;
-	max-width: 280px;
+	position: absolute;
+	width: 360px;
+}
+.content .imgBox img:nth-child(1)
+{
+	top: 0;
+	right: 200px;
 }
 
 @media (max-width: 1367px)
