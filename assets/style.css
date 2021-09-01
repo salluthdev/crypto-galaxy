@@ -208,7 +208,7 @@ header .auth a:hover
 .content .textBox .button .tutorial a
 {
 	font-weight: 500;
-	font-size: 18px;
+	font-size: 19px;
 }
 .content .textBox .button .tutorial a:nth-child(1)
 {
@@ -236,8 +236,10 @@ header .auth a:hover
 .content .textBox .button .tutorial img
 {
 	position: absolute;
-	left: 14px;
-	top: 12px;
+	width: 14px;
+	height: 13px;
+	left: 14.4px;
+	top: 13px;
 }
 .content .imgBox
 {
