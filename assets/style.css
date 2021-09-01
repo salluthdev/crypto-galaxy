@@ -152,7 +152,7 @@ header .auth a:hover
 {
 	color: #ebe4fb;
 	font-weight: 600;
-	font-size: 20px;
+	font-size: 18.6px;
 	margin: 0;
 }
 .content .textBox .star_title img
@@ -180,7 +180,7 @@ header .auth a:hover
 }
 .content .textBox p
 {
-	font-size: 18px;
+	font-size: 19px;
 	font-weight: 200;
 	word-spacing: 2px;
 	line-height: 40px;
@@ -296,7 +296,7 @@ header .auth a:hover
 		font-size: 22px;
 		margin-left: 72px;
 	}
-	header .auth a, header ul li a
+	header .auth a, header ul li a, .content .textBox p
 	{
 		font-size: 16px;
 	}
@@ -310,7 +310,7 @@ header .auth a:hover
 	}
 	.content .textBox .inline p
 	{
-		font-size: 16px;
+		font-size: 15.6px;
 	}
 	.content .textBox .star_title img
 	{
@@ -322,7 +322,7 @@ header .auth a:hover
 	.content .textBox h2
 	{
 		font-size: 56px;
-		line-height: 80px;
+		line-height: 72px;
 		margin: 0;
 	}
 	.textBox .icon-title img
@@ -330,14 +330,13 @@ header .auth a:hover
 		width: 42px;
 		margin: 0 8px;
 	}
-.content .textBox p
-{
-	font-size: 18px;
-	font-weight: 200;
-	word-spacing: 2px;
-	line-height: 40px;
-	margin: 40px 80px 10px 0;
-}
+	.content .textBox p
+	{
+		font-weight: 200;
+		word-spacing: 2px;
+		line-height: 40px;
+		margin: 40px 80px 10px 0;
+	}
 	.content .imgBox img:nth-child(1)
 	{
 		right: 80px;
