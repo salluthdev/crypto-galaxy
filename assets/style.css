@@ -265,7 +265,9 @@ header .auth a:hover
 	top: 0;
 	right: 110px;
 	width: 360px;
+	object-fit: cover;
 	z-index: 3;
+
 }
 .content .imgBox img:nth-child(2)
 {
