@@ -125,7 +125,7 @@ header .auth a:hover
 	display: flex;
 	justify-content: space-between;
 	align-items: flex-start;
-	margin-top: 40px;
+	margin-top: 80px;
 }
 .content .textBox
 {
@@ -288,5 +288,26 @@ header .auth a:hover
 	header .auth a, header ul li a
 	{
 		font-size: 16px;
+	}
+	.content .imgBox img:nth-child(1)
+	{
+		top: 0;
+		right: 110px;
+		width: 280px;
+		z-index: 3;
+	}
+	.content .imgBox img:nth-child(2)
+	{
+		top: 20px;
+		right: 55px;
+		width: 300px;
+		z-index: 2;
+	}
+	.content .imgBox img:nth-child(3)
+	{
+		top: 40px;
+		right: 0;
+		width: 320px;
+		z-index: 1;
 	}
 }
