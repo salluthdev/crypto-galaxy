@@ -181,7 +181,6 @@ header .auth a:hover
 .content .textBox p
 {
 	font-size: 19px;
-	font-weight: 200;
 	word-spacing: 2px;
 	line-height: 40px;
 	margin: 40px 80px 10px 0;
@@ -323,7 +322,6 @@ header .auth a:hover
 	{
 		font-size: 56px;
 		line-height: 72px;
-		margin: 0;
 	}
 	.textBox .icon-title img
 	{
@@ -332,10 +330,9 @@ header .auth a:hover
 	}
 	.content .textBox p
 	{
-		font-weight: 200;
-		word-spacing: 2px;
-		line-height: 40px;
-		margin: 40px 80px 10px 0;
+		word-spacing: 1.8px;
+		line-height: 32px;
+		margin: 30px 80px 10px 0;
 	}
 	.content .imgBox img:nth-child(1)
 	{
