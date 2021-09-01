@@ -302,23 +302,17 @@ header .auth a:hover
 	}
 	.content .imgBox img:nth-child(1)
 	{
-		top: 0;
-		right: 110px;
+		right: 80px;
 		width: 280px;
-		z-index: 3;
 	}
 	.content .imgBox img:nth-child(2)
 	{
-		top: 20px;
-		right: 55px;
+		right: 40px;
 		width: 300px;
-		z-index: 2;
 	}
 	.content .imgBox img:nth-child(3)
 	{
-		top: 40px;
 		right: 0;
 		width: 320px;
-		z-index: 1;
 	}
 }
