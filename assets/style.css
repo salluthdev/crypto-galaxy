@@ -254,23 +254,23 @@ header .auth a:hover
 .content .imgBox img:nth-child(1)
 {
 	top: 0;
-	right: 200px;
-	z-index: 3;
+	right: 120px;
 	width: 360px;
+	z-index: 3;
 }
 .content .imgBox img:nth-child(2)
 {
-	top: 40px;
-	right: 120px;
-	z-index: 2;
+	top: 20px;
+	right: 60px;
 	width: 400px;
+	z-index: 2;
 }
 .content .imgBox img:nth-child(3)
 {
-	top: 80px;
-	right: 40px;
+	top: 40px;
+	right: 0;
+	width: 440px;
 	z-index: 1;
-	width: 400px;
 }
 
 @media (max-width: 1367px)
