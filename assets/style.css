@@ -300,6 +300,46 @@ header .auth a:hover
 	{
 		font-size: 16px;
 	}
+	.content .textBox .inline img
+	{
+		width: 28px;
+	}
+	.content .textBox .inline p
+	{
+		font-size: 16px;
+	}
+	.content .textBox .star_title img
+	{
+		top: 60px;
+		right: -40px;
+		width: 40px;
+		height: 40px;
+	}
+.content .textBox h2
+{
+	font-size: 60px;
+	font-weight: 800;
+	line-height: 90px;
+	margin-top: 8px;
+}
+.content .textBox h2, .content .textBox p
+{
+	color: #f9f8fd;
+	letter-spacing: 2px;
+}
+.textBox .icon-title img
+{
+	width: 48px;
+	margin: 0 8px;
+}
+.content .textBox p
+{
+	font-size: 18px;
+	font-weight: 200;
+	word-spacing: 2px;
+	line-height: 40px;
+	margin: 40px 80px 10px 0;
+}
 	.content .imgBox img:nth-child(1)
 	{
 		right: 80px;
