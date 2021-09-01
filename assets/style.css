@@ -285,6 +285,17 @@ header .auth a:hover
 
 @media (max-width: 1367px)
 {
+	header .logo img
+	{
+		top: 16px;
+		width: 52px;
+	}
+	header .logo h2
+	{
+		width: 112px;
+		font-size: 22px;
+		margin-left: 72px;
+	}
 	header .auth a, header ul li a
 	{
 		font-size: 16px;
