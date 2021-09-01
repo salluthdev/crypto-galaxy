@@ -250,25 +250,27 @@ header .auth a:hover
 .content .imgBox img
 {
 	position: absolute;
-	width: 360px;
 }
 .content .imgBox img:nth-child(1)
 {
 	top: 0;
 	right: 200px;
 	z-index: 3;
+	width: 360px;
 }
 .content .imgBox img:nth-child(2)
 {
 	top: 40px;
 	right: 120px;
 	z-index: 2;
+	width: 400px;
 }
 .content .imgBox img:nth-child(3)
 {
 	top: 80px;
 	right: 40px;
 	z-index: 1;
+	width: 400px;
 }
 
 @media (max-width: 1367px)
