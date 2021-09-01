@@ -319,13 +319,12 @@ header .auth a:hover
 		width: 40px;
 		height: 40px;
 	}
-.content .textBox h2
-{
-	font-size: 60px;
-	font-weight: 800;
-	line-height: 90px;
-	margin-top: 8px;
-}
+	.content .textBox h2
+	{
+		font-size: 56px;
+		line-height: 80px;
+		margin: 0;
+	}
 .content .textBox h2, .content .textBox p
 {
 	color: #f9f8fd;
