@@ -38,6 +38,16 @@ header
 	justify-content: space-between;
 	margin-top: 14px;
 }
+.blur_01
+{
+	position: absolute;
+	width: 267px;
+	height: 267px;
+	left: -53px;
+	top: -21px;
+	background: #d9aafa;
+	filter: blur(350px);
+}
 header .logo img
 {
 	position: absolute;
