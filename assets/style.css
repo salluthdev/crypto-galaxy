@@ -300,6 +300,10 @@ header .auth a:hover
 	{
 		font-size: 16px;
 	}
+	header .auth .signIn a
+	{
+		padding: 14px 30px;
+	}
 	.content .textBox .inline img
 	{
 		width: 28px;
