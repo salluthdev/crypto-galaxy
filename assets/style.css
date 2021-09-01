@@ -295,7 +295,7 @@ header .auth a:hover
 		font-size: 22px;
 		margin-left: 72px;
 	}
-	header .auth a, header ul li a, .content .textBox p
+	header .auth a, header ul li a, .content .textBox p, .content .textBox .button .tutorial a
 	{
 		font-size: 16px;
 	}
@@ -348,46 +348,19 @@ header .auth a:hover
 	}
 	.content .textBox .button .tutorial
 	{
-	display: inline-flex;
-	align-items: center;
-	margin-left: 40px;
-}
-.content .textBox .button .tutorial a
-{
-	font-weight: 500;
-	font-size: 19px;
-}
-.content .textBox .button .tutorial a:nth-child(1)
-{
-	position: relative;
-	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
-	padding: 23px;
-	border-radius: 50%;
-	margin-right: 12px;
-}
-.content .textBox .button .tutorial a:nth-child(1)::before
-{
-	content: '';
-	top: 0;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	position: absolute;
-	border-radius: 50%;
-  	border: 1.5px solid transparent;
-  	background: linear-gradient(180deg,rgba(180, 112, 255, 1),rgba(255, 54, 143, 1)) border-box;
-  	-webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
-  	-webkit-mask-composite: destination-out;
-  	mask-composite: exclude;
-}
-.content .textBox .button .tutorial img
-{
-	position: absolute;
-	width: 16px;
-	height: 16px;
-	left: 16px;
-	top: 14.5px;
-}
+		margin-left: 36px;
+	}
+	.content .textBox .button .tutorial a:nth-child(1)
+	{
+		padding: 20px;
+	}
+	.content .textBox .button .tutorial img
+	{
+		width: 15px;
+		height: 15px;
+		left: 14px;
+		top: 12px;
+	}
 	.content .imgBox img:nth-child(1)
 	{
 		right: 80px;
