@@ -125,6 +125,7 @@ header .auth a:hover
 	display: flex;
 	justify-content: space-between;
 	align-items: flex-start;
+	margin-top: 48px;
 }
 .content .textBox
 {
@@ -152,6 +153,10 @@ header .auth a:hover
 	color: #ebe4fb;
 	font-weight: 600;
 	font-size: 20px;
+}
+.content .textBox .star_title img
+{
+	position: absolute;
 }
 .content .textBox h2
 {
