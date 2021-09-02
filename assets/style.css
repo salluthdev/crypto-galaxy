@@ -195,6 +195,16 @@ header .auth a:hover
 	line-height: 40px;
 	margin: 40px 80px 10px 0;
 }
+.blur_02
+{
+	position: absolute;
+	width: 197px;
+	height: 197px;
+	left: 367px;
+	top: 237px;
+	background: #40488E;
+	filter: blur(125px);
+}
 .content .textBox .button
 {
 	margin-top: 40px;
@@ -291,7 +301,7 @@ header .auth a:hover
 	width: 430px;
 	z-index: 1;
 }
-.blur_02
+.blur_03
 {
 	position: absolute;
 	width: 227px;
@@ -299,7 +309,7 @@ header .auth a:hover
 	right: -180px;
 	top: 0;
 	background: #75408E;
-	filter: blur(150px);
+	filter: blur(170px);
 }
 
 @media (max-width: 1367px)
@@ -399,5 +409,13 @@ header .auth a:hover
 	{
 		right: 0;
 		width: 330px;
+	}
+}
+
+@media (max-width: 1127px)
+{
+	header
+	{
+	padding: 12px 40px;
 	}
 }
