@@ -422,6 +422,10 @@ header .auth a:hover
 	{
 		padding: 12px 40px;
 	}
+	header ul li
+	{
+		margin: 0 32px;
+	}
 	.content .textBox .star_title img
 	{
 		top: 56px;
