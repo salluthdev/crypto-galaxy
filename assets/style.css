@@ -202,8 +202,8 @@ header .auth a:hover
 	height: 197px;
 	left: 367px;
 	top: 237px;
-	background: #40488E;
-	filter: blur(125px);
+	background: #40488e;
+	filter: blur(150px);
 }
 .content .textBox .button
 {
@@ -308,8 +308,8 @@ header .auth a:hover
 	height: 227px;
 	right: -180px;
 	top: 0;
-	background: #75408E;
-	filter: blur(170px);
+	background: #75408e;
+	filter: blur(150px);
 }
 
 @media (max-width: 1367px)
