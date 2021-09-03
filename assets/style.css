@@ -435,6 +435,10 @@ header .auth a:hover
 	{
 		font-size: 42px;
 	}
+	.plan p
+	{
+		padding: 20px 0 40px;
+	}
 }
 
 @media (max-width: 1127px)
