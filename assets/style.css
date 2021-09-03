@@ -322,7 +322,7 @@ header .auth a:hover
 {
 	color: #f9f8fd;
 	font-weight: 700;
-	font-size: 50px;
+	font-size: 48px;
 }
 
 @media (max-width: 1367px)
@@ -426,7 +426,7 @@ header .auth a:hover
 	/* Plan Mining */
 	.plan h2
 	{
-		font-size: 46px;
+		font-size: 42px;
 	}
 }
 
@@ -470,7 +470,7 @@ header .auth a:hover
 	/* Plan Mining */
 	.plan h2
 	{
-		font-size: 44px;
+		font-size: 38px;
 	}
 }
 
