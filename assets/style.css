@@ -321,10 +321,13 @@ header .auth a:hover
 	padding: 120px 60px;
 	text-align: center;
 }
-.plan .star-plan
+.plan .star-plan img
 {
 	position: absolute;
-	
+	top: 750px;
+	left: 510px;
+	width: 36px;
+	height: 36px;
 }
 .plan h2
 {
