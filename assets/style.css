@@ -11,6 +11,10 @@
 body
 {
 	overflow-x: hidden;
+	background: #1e133a;
+	background-image: url('img/bg_full.png');
+	background-size: cover;
+	letter-spacing: 1.4px;
 }
 section
 {
@@ -21,10 +25,6 @@ section
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
-	background: #1e133a;
-	background-image: url('img/bg.svg');
-	background-size: cover;
-	letter-spacing: 1.4px;
 }
 header
 {
@@ -266,7 +266,7 @@ header .auth a:hover
 	position: absolute;
 	width: 16px;
 	height: 16px;
-	left: 16px;
+	left: 15.8px;
 	top: 14.5px;
 }
 .content .imgBox
@@ -389,10 +389,10 @@ header .auth a:hover
 	}
 	.content .textBox .button .tutorial img
 	{
-		width: 15px;
-		height: 15px;
-		left: 14px;
-		top: 12px;
+		width: 14px;
+		height: 14px;
+		left: 13.6px;
+		top: 13px;
 	}
 	.content .imgBox img:nth-child(1)
 	{
