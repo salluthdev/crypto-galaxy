@@ -312,6 +312,17 @@ header .auth a:hover
 	filter: blur(150px);
 }
 
+/* Plan Mining */
+.plan
+{
+	padding: 60px;
+	text-align: center;
+}
+.plan h2
+{
+	color: #f9f8fd;
+}
+
 @media (max-width: 1367px)
 {
 	header .logo img
