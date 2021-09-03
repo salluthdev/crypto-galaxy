@@ -321,6 +321,8 @@ header .auth a:hover
 .plan h2
 {
 	color: #f9f8fd;
+	font-weight: 700;
+	font-size: 50px;
 }
 
 @media (max-width: 1367px)
@@ -420,6 +422,12 @@ header .auth a:hover
 		right: 0;
 		width: 330px;
 	}
+
+	/* Plan Mining */
+	.plan h2
+	{
+		font-size: 46px;
+	}
 }
 
 @media (max-width: 1127px)
@@ -458,4 +466,24 @@ header .auth a:hover
 		line-height: 32px;
 		margin: 30px 80px 10px 0;
 	}
+
+	/* Plan Mining */
+	.plan h2
+	{
+		font-size: 44px;
+	}
+}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min--moz-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5)
+{
+  html,
+  body
+  {
+    width: 100%;
+    overflow-x: hidden;
+  }
 }
