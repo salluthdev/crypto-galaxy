@@ -12,7 +12,7 @@ body
 {
 	overflow-x: hidden;
 	background: #1e133a;
-	background-image: url('img/bg_full.png');
+	background-image: url('img/bg.png');
 	background-size: cover;
 	letter-spacing: 1.4px;
 }
