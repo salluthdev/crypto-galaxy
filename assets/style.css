@@ -321,6 +321,11 @@ header .auth a:hover
 	padding: 120px 60px;
 	text-align: center;
 }
+.plan .star-plan
+{
+	position: absolute;
+	
+}
 .plan h2
 {
 	font-weight: 700;
