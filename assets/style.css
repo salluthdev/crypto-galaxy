@@ -190,10 +190,13 @@ header .auth a:hover
 }
 .content .textBox p
 {
-	font-size: 19px;
 	word-spacing: 2px;
 	line-height: 40px;
 	margin: 40px 80px 10px 0;
+}
+.content .textBox p, .plan p
+{
+	font-size: 19px;
 }
 .blur_02
 {
@@ -320,9 +323,12 @@ header .auth a:hover
 }
 .plan h2
 {
-	color: #f9f8fd;
 	font-weight: 700;
 	font-size: 48px;
+}
+.plan h2, .plan p
+{
+	color: #f9f8fd;
 }
 
 @media (max-width: 1367px)
@@ -342,7 +348,8 @@ header .auth a:hover
 	{
 		margin: 0 36px;
 	}
-	header .auth a, header ul li a, .content .textBox p, .content .textBox .button .tutorial a
+	header .auth a, header ul li a, .content .textBox p, 
+	.content .textBox .button .tutorial a, .plan p
 	{
 		font-size: 16px;
 	}
