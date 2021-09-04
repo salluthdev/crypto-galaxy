@@ -342,6 +342,85 @@ header .auth .signIn a:hover
 {
 	padding: 16px 0 32px;
 }
+.action
+{
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	margin: 40px 80px;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+	grid-gap: 20px;
+}
+.action .card
+{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	border: 2px solid #888fe8;
+	border-radius: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	min-width: 300px;
+	max-width: 300px;
+	line-height: 40px;
+	background: #fbfcf8;
+}
+.action .card:hover
+{
+	animation-name: slide;
+  animation-duration: 50s;
+  cursor: pointer;
+}
+@keyframes slide
+{
+    1%
+    {
+    	opacity: 1; margin-top: 0;
+    }
+}
+.action .card .baris 
+{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin: 0 20px;
+}
+.action .card .title
+{
+	background: #888fe8;
+	color: #f9fafc;
+}
+.action .card h2
+{
+	font-size: 1.2em;
+	width: 120px;
+	text-align: center;
+	border-radius: 0px 5px 0px 5px;
+}
+.action .card ul
+{
+	padding: 20px 60px;
+	color: #888fe8;
+}
+.action .card .list
+{
+	color: #23272a;
+}
+.action .card h4
+{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 25px;
+	background: #2b2b45;
+	border-radius: 25px;
+	width: 150px;
+	color: #f9fafc;
+}
+.action .card h4:hover
+{
+	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
+}
 
 @media (max-width: 1367px)
 {
