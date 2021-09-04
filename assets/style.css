@@ -82,7 +82,7 @@ header ul li a
 {
 	display: inline-block;
 }
-header ul li a:hover
+header ul li a:hover, header .auth .signUp a:hover
 {
 	border-bottom: 1px solid #888fe8;
 	text-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
@@ -124,7 +124,7 @@ header .auth .signIn a::before
   	-webkit-mask-composite: destination-out;
   	mask-composite: exclude;
 }
-header .auth a:hover
+header .auth .signIn a:hover
 {
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
 }
