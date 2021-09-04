@@ -363,20 +363,7 @@ header .auth .signIn a:hover
 	margin: 20px 40px;
 	width: 300px;
 	line-height: 40px;
-	background: #fbfcf8;
-}
-.action .card:hover
-{
-	animation-name: slide;
-  animation-duration: 50s;
-  cursor: pointer;
-}
-@keyframes slide
-{
-    1%
-    {
-    	opacity: 1; margin-top: 0;
-    }
+	background: linear-gradient(160.52deg, #1D123A -35.58%, #2A1B54 146.57%);
 }
 .action .card .baris 
 {
