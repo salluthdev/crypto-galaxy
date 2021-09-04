@@ -358,9 +358,8 @@ header .auth .signIn a:hover
 	align-items: center;
 	justify-content: center;
 	width: 300px;
-	border: 1.5px solid;
-	border-image-source: linear-gradient(153.51deg, #473280 -75.44%, #3A2867 118.22%);
-	border-radius: 5px;
+	border: 1.5px solid rgba(87, 68, 136, 1);
+	border-radius: 15px;
 	margin: 20px 40px;
 	line-height: 40px;
 	background: linear-gradient(160.52deg, #1d123A -35.58%, #2a1b54 146.57%);
