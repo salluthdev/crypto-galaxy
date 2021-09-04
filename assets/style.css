@@ -364,18 +364,12 @@ header .auth .signIn a:hover
 	width: 300px;
 	line-height: 40px;
 	background: linear-gradient(160.52deg, #1d123A -35.58%, #2a1b54 146.57%);
-}
-.action .card .title
-{
-	background: #888fe8;
-	color: #f9fafc;
+	text-align: center;
 }
 .action .card h2
 {
-	font-size: 1.2em;
-	width: 120px;
-	text-align: center;
-	border-radius: 0px 5px 0px 5px;
+	font-weight: bold;
+	font-size: 28px;
 }
 .action .card ul
 {
