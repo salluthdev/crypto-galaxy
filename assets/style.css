@@ -365,6 +365,14 @@ header .auth .signIn a:hover
 	background: linear-gradient(160.52deg, #1d123A -35.58%, #2a1b54 146.57%);
 	text-align: center;
 }
+.action .card .icon
+{
+	position: absolute;
+	width: 40px;
+	z-index: 1;
+	top: -20px;
+	left: 128px;
+}
 .action .card h2
 {
 	font-weight: bold;
