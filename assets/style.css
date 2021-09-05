@@ -373,7 +373,7 @@ header .auth .signIn a:hover
 	top: 1080px;
 	left: -60px;
 	background: #56408e;
-	filter: blur(170px);
+	filter: blur(165px);
 }
 .action .card .icon
 {
@@ -430,6 +430,16 @@ header .auth .signIn a:hover
 	padding: 6px 32px;
 	border-radius: 18px;
 	width: 150px;
+}
+.blur_05
+{
+	position: absolute;
+	width: 267px;
+	height: 267px;
+	left: 1303px;
+	top: 1265px;
+	background: #40488e;
+	filter: blur(350px);
 }
 
 @media (max-width: 1367px)
