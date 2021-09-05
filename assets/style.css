@@ -377,6 +377,7 @@ header .auth .signIn a:hover
 .action .card ul .list
 {
 	color: #d8caff;
+	font-size: 14px;
 }
 .action .card h4
 {
