@@ -373,11 +373,10 @@ header .auth .signIn a:hover
 .action .card ul
 {
 	padding: 20px 60px;
-	color: #888fe8;
 }
-.action .card .list
+.action .card ul .list
 {
-	color: #23272a;
+	color: #d8caff;
 }
 .action .card h4
 {
