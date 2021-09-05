@@ -102,14 +102,14 @@ header .auth .signUp
 {
 	margin-right: 28px;
 }
-header .auth .signIn a
+header .auth .signIn a, .action .card h4
 {
 	position: relative;
 	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
 	border-radius: 14px;
 	padding: 16px 32px;
 }
-header .auth .signIn a::before
+header .auth .signIn a::before, .action .card h4::before
 {
 	content: '';
 	top: 0;
@@ -382,7 +382,6 @@ header .auth .signIn a:hover
 .action .card h4
 {
 	width: 150px;
-	color: #f9fafc;
 }
 
 @media (max-width: 1367px)
