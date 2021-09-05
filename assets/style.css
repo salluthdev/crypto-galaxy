@@ -379,9 +379,15 @@ header .auth .signIn a:hover
 	color: #d8caff;
 	font-size: 14px;
 }
-.action .card h4
+.action .card a
 {
-	width: 150px;
+	text-decoration: none;
+}
+.action .card a h4
+{
+	color: #fff;
+	padding: 8px 32px;
+	border-radius: 18px;
 }
 
 @media (max-width: 1367px)
