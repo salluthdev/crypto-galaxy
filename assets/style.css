@@ -355,13 +355,12 @@ header .auth .signIn a:hover
 	position: relative;
 	display: flex;
 	flex-direction: column;
-	align-items: center;
-	justify-content: center;
+	justify-content: left;
 	width: 300px;
 	border: 1.5px solid rgba(87, 68, 136, 1);
 	border-radius: 15px;
 	margin: 20px 40px;
-	padding: 32px 16px;
+	padding: 32px;
 	line-height: 40px;
 	background: linear-gradient(160.52deg, #1d123A -35.58%, #2a1b54 146.57%);
 	text-align: center;
@@ -374,6 +373,11 @@ header .auth .signIn a:hover
 .action .card .list
 {
 	padding: 32px 0;
+	text-align: left;
+}
+.action .card .list img
+{
+	margin-right: 12px;
 }
 .action .card .list p
 {
@@ -387,9 +391,11 @@ header .auth .signIn a:hover
 }
 .action .card a h4
 {
+	margin: 0 auto;
 	color: #fff;
 	padding: 6px 32px;
 	border-radius: 18px;
+	width: 150px;
 }
 
 @media (max-width: 1367px)
