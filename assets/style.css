@@ -368,7 +368,7 @@ header .auth .signIn a:hover
 .action .card h2
 {
 	font-weight: bold;
-	font-size: 28px;
+	font-size: 32px;
 }
 .action .card .list
 {
@@ -377,13 +377,23 @@ header .auth .signIn a:hover
 }
 .action .card .list img
 {
-	margin-right: 57px;
+	margin-right: 54px;
 }
 .action .card p
 {
 	color: #d8caff;
 	font-size: 14px;
 	padding: 0;
+}
+.action .card .price
+{
+	line-height: 16px;
+}
+.action .card h3
+{
+	font-size: 24px;
+	color: #d8caff;
+	margin-bottom: 32px;
 }
 .action .card a
 {
