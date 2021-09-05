@@ -378,6 +378,7 @@ header .auth .signIn a:hover
 .action .card .list img
 {
 	margin-right: 44px;
+	width: 18px;
 }
 .action .card p
 {
