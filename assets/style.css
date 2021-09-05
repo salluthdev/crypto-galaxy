@@ -375,7 +375,7 @@ header .auth .signIn a:hover
 {
 	padding: 32px 0;
 }
-.action .card p
+.action .card .list p
 {
 	color: #d8caff;
 	font-size: 14px;
