@@ -436,10 +436,10 @@ header .auth .signIn a:hover
 	position: absolute;
 	width: 267px;
 	height: 267px;
-	left: 1303px;
-	top: 1265px;
+	top: 865px;
+	right: -120px;
 	background: #40488e;
-	filter: blur(350px);
+	filter: blur(150px);
 }
 
 @media (max-width: 1367px)
