@@ -381,18 +381,8 @@ header .auth .signIn a:hover
 }
 .action .card h4
 {
-	text-align: center;
-	margin-right: auto;
-	margin-left: auto;
-	margin-bottom: 25px;
-	background: #2b2b45;
-	border-radius: 25px;
 	width: 150px;
 	color: #f9fafc;
-}
-.action .card h4:hover
-{
-	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
 }
 
 @media (max-width: 1367px)
