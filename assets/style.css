@@ -182,6 +182,7 @@ header .auth .signIn a:hover
 {
 	color: #f9f8fd;
 	letter-spacing: 2px;
+	z-index: 1;
 }
 .textBox .icon-title img
 {
@@ -364,6 +365,7 @@ header .auth .signIn a:hover
 	line-height: 40px;
 	background: linear-gradient(160.52deg, #1d123a -35.58%, #2a1b54 146.57%);
 	text-align: center;
+	z-index: 1;
 }
 .blur_04
 {
