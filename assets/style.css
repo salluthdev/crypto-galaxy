@@ -369,6 +369,7 @@ header .auth .signIn a:hover
 {
 	position: absolute;
 	width: 56px;
+	height: 56px;
 	z-index: 1;
 	top: -30px;
 	left: 120px;
@@ -380,7 +381,7 @@ header .auth .signIn a:hover
 .action .card h2
 {
 	font-weight: bold;
-	font-size: 32px;
+	font-size: 30px;
 }
 .action .card .list
 {
@@ -389,7 +390,7 @@ header .auth .signIn a:hover
 }
 .action .card .list img
 {
-	margin-right: 44px;
+	margin-right: 48px;
 	width: 18px;
 }
 .action .card p
