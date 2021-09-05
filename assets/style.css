@@ -360,21 +360,21 @@ header .auth .signIn a:hover
 	border: 1.5px solid rgba(87, 68, 136, 1);
 	border-radius: 42px;
 	margin: 20px 40px;
-	padding: 48px 48px 32px;
+	padding: 52px 48px 32px;
 	line-height: 40px;
-	background: linear-gradient(160.52deg, #1d123A -35.58%, #2a1b54 146.57%);
+	background: linear-gradient(160.52deg, #1d123a -35.58%, #2a1b54 146.57%);
 	text-align: center;
 }
 .action .card .icon
 {
 	position: absolute;
-	width: 56px;
-	height: 56px;
+	width: 66px;
+	height: 66px;
 	z-index: 1;
 	top: -30px;
-	left: 120px;
-	padding: 14px;
-	background: linear-gradient(160.52deg, #1d123A -35.58%, #2a1b54 146.57%);
+	left: 116px;
+	padding: 16px;
+	background: linear-gradient(160.52deg, #1d123a -35.58%, #2a1b54 146.57%);
 	border-radius: 50%;
 	border: 1.5px solid rgba(87, 68, 136, 1);
 }
