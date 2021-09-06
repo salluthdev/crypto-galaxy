@@ -462,12 +462,22 @@ header .auth .signIn a:hover
 	word-spacing: 2px;
 	line-height: 32px;
 }
-.why .textBox .cost h4
+.why .textBox .inline .vector
+{
+	position: relative;
+	margin-right: 20px;
+}
+.why .textBox .inline .vector img
+{
+	width: 48px;
+	height: 48px;
+}
+.why .textBox .inline h4
 {
 	color: #e1d4ff;
 	font-size: 20px;
 }
-.why .textBox .cost p
+.why .textBox .inline p
 {
 	margin: 0;
 	color: #a393c7;
