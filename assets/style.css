@@ -455,6 +455,10 @@ header .auth .signIn a:hover
 	width: 520px;
 	height: 520px;
 }
+.why .textBox p
+{
+	width: 480px;
+}
 
 
 @media (max-width: 1367px)
