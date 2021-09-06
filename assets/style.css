@@ -443,6 +443,12 @@ header .auth .signIn a:hover
 	background: #40488e;
 	filter: blur(150px);
 }
+.why
+{
+	display: flex;
+	justify-content: space-between;
+	padding: 0 60px;
+}
 
 @media (max-width: 1367px)
 {
