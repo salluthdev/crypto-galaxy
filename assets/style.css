@@ -462,6 +462,16 @@ header .auth .signIn a:hover
 	word-spacing: 2px;
 	line-height: 32px;
 }
+.why .textBox .cost h4
+{
+	color: #e1d4ff;
+	font-size: 20px;
+}
+.why .textBox .cost p
+{
+	margin: 0;
+	color: #a393c7;
+}
 
 
 @media (max-width: 1367px)
