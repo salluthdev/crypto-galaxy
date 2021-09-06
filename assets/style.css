@@ -465,24 +465,18 @@ header .auth .signIn a:hover
 .why .textBox .inline
 {
 	margin-bottom: 40px;
-	background: linear-gradient(160.52deg, #1D123A -35.58%, #2A1B54 146.57%);
-	border-radius: 42px;
+	background: linear-gradient(160.52deg, #1d123a -35.58%, #2a1b54 146.57%);
+	border-radius: 32px;
 	width: 500px;
-	padding: 20px 14px;
+	padding: 20px;
 }
 .why .textBox .inline .vector
 {
 	position: relative;
 	margin-right: 32px;
-}
-.why .textBox .inline .vector::before
-{
-	content: '';
-	position: absolute;
-	width: 64px;
-	height: 64px;
 	background: linear-gradient(336.28deg, #513791 2.6%, #7A61B8 100.92%);
-	border-radius: 20px;
+	border-radius: 26px;
+	padding: 12px;
 }
 .why .textBox .inline .vector img
 {
