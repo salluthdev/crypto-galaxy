@@ -458,6 +458,9 @@ header .auth .signIn a:hover
 .why .textBox p
 {
 	width: 480px;
+	margin: 10px 0 40px;
+	word-spacing: 2px;
+	line-height: 32px;
 }
 
 
