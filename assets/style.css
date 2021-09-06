@@ -330,12 +330,12 @@ header .auth .signIn a:hover
 	width: 36px;
 	height: 36px;
 }
-.plan h2
+.plan h2, .why .textBox h2
 {
 	font-weight: 700;
 	font-size: 48px;
 }
-.plan h2, .plan p
+.plan h2, .plan p, .why .textBox h2
 {
 	color: #f9f8fd;
 }
@@ -556,7 +556,7 @@ header .auth .signIn a:hover
 	}
 
 	/* Plan Mining */
-	.plan h2
+	.plan h2, .why .textBox h2
 	{
 		font-size: 42px;
 	}
@@ -600,7 +600,7 @@ header .auth .signIn a:hover
 	}
 
 	/* Plan Mining */
-	.plan h2
+	.plan h2, .why .textBox h2
 	{
 		font-size: 38px;
 	}
