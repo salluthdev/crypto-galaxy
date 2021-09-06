@@ -445,14 +445,15 @@ header .auth .signIn a:hover
 }
 .why
 {
-	display: flex;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
 	justify-content: center;
 	padding: 0 60px;
 }
 .why .imgBox img
 {
-	width: 600px;
-	height: 600px;
+	width: 520px;
+	height: 520px;
 }
 
 
