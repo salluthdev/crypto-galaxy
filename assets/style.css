@@ -178,7 +178,7 @@ header .auth .signIn a:hover
 	line-height: 90px;
 	margin-top: 8px;
 }
-.content .textBox h2, .content .textBox p
+.content .textBox h2, .content .textBox p, .why .textBox p
 {
 	color: #f9f8fd;
 	letter-spacing: 2px;
@@ -195,7 +195,7 @@ header .auth .signIn a:hover
 	line-height: 40px;
 	margin: 40px 80px 10px 0;
 }
-.content .textBox p, .plan p
+.content .textBox p, .plan p, .why p
 {
 	font-size: 19px;
 }
@@ -475,7 +475,7 @@ header .auth .signIn a:hover
 		margin: 0 36px;
 	}
 	header .auth a, header ul li a, .content .textBox p, 
-	.content .textBox .button .tutorial a, .plan p
+	.content .textBox .button .tutorial a, .plan p, .why .textBox p
 	{
 		font-size: 16px;
 	}
