@@ -491,7 +491,7 @@ header .auth .signIn a:hover
 	position: relative;
 	margin-right: 20px;
 	background: linear-gradient(336.28deg, #513791 2.6%, #7a61b8 100.92%);
-	border-radius: 20px;
+	border-radius: 22px;
 	padding: 15px 16px 12px;
 }
 .why .textBox .inline .vector img
