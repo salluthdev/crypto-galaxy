@@ -55,7 +55,7 @@ header .logo img
 	width: 58px;
 	border-radius: 50%;
 }
-header .logo h2
+header .logo h6
 {
 	width: 112px;
 	font-size: 24px;
@@ -64,6 +64,7 @@ header .logo h2
 	font-weight: 800;
 	letter-spacing: 2px;
 	line-height: 30px;
+	font-weight: 800;
 }
 header ul
 {
@@ -171,14 +172,14 @@ header .auth .signIn a:hover
 	top: 60px;
 	right: -32px;
 }
-.content .textBox h2
+.content .textBox h1
 {
 	font-size: 60px;
 	font-weight: 800;
 	line-height: 90px;
 	margin-top: 8px;
 }
-.content .textBox h2, .content .textBox p, .why .textBox p
+.content .textBox h1, .content .textBox p, .why .textBox p
 {
 	color: #f9f8fd;
 	letter-spacing: 2px;
@@ -323,11 +324,17 @@ header .auth .signIn a:hover
 	padding: 120px 60px;
 	text-align: center;
 }
+.plan .star_plan
+{
+	position: relative;
+	margin: auto;
+	width: 600px;
+}
 .plan .star_plan img
 {
 	position: absolute;
-	top: 90px;
-	left: 510px;
+	top: -28px;
+	left: 120px;
 	width: 36px;
 	height: 36px;
 }
@@ -575,7 +582,7 @@ header .auth .signIn a:hover
 		width: 40px;
 		height: 40px;
 	}
-	.content .textBox h2
+	.content .textBox h1
 	{
 		font-size: 56px;
 		line-height: 72px;
@@ -662,7 +669,7 @@ header .auth .signIn a:hover
 		width: 40px;
 		height: 40px;
 	}
-	.content .textBox h2
+	.content .textBox h1
 	{
 		font-size: 54px;
 	}
