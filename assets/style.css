@@ -322,7 +322,7 @@ header .auth .signIn a:hover
 	padding: 120px 60px;
 	text-align: center;
 }
-.plan .star-plan img
+.plan .star_plan img
 {
 	position: absolute;
 	top: 750px;
@@ -455,6 +455,12 @@ header .auth .signIn a:hover
 {
 	width: 520px;
 	height: 520px;
+}
+.why .star_why img
+{
+	position: absolute;
+	width: 36px;
+	height: 36px;
 }
 .why .textBox p
 {
