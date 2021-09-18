@@ -448,6 +448,7 @@ header .auth .signIn a:hover
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	justify-content: center;
+	align-items: center;
 	padding: 0 60px;
 }
 .why .imgBox img
@@ -458,7 +459,7 @@ header .auth .signIn a:hover
 .why .textBox p
 {
 	width: 480px;
-	margin: 10px 0 40px;
+	margin: 10px 0 48px;
 	word-spacing: 2px;
 	line-height: 32px;
 }
