@@ -259,11 +259,11 @@ header .auth .signIn a:hover
 	right: 0;
 	position: absolute;
 	border-radius: 50%;
-  	border: 1.5px solid transparent;
-  	background: linear-gradient(180deg,rgba(180, 112, 255, 1),rgba(255, 54, 143, 1)) border-box;
-  	-webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
-  	-webkit-mask-composite: destination-out;
-  	mask-composite: exclude;
+  border: 1.5px solid transparent;
+  background: linear-gradient(180deg,rgba(180, 112, 255, 1),rgba(255, 54, 143, 1)) border-box;
+  -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: destination-out;
+  mask-composite: exclude;
 }
 .content .textBox .button .tutorial img
 {
@@ -466,16 +466,32 @@ header .auth .signIn a:hover
 {
 	margin-bottom: 40px;
 	background: linear-gradient(160.52deg, #1d123a -35.58%, #2a1b54 146.57%);
+	position: relative;
 	border-radius: 32px;
 	width: 500px;
 	padding: 20px;
+}
+.why .textBox .inline::before
+{
+	content: '';
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	position: absolute;
+	border-radius: 32px;
+  border: 1.5px solid transparent;
+  background: linear-gradient(153.51deg, #473280 -75.44%, #3A2867 118.22%) border-box;
+  -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: destination-out;
+  mask-composite: exclude;
 }
 .why .textBox .inline .vector
 {
 	position: relative;
 	margin-right: 20px;
 	background: linear-gradient(336.28deg, #513791 2.6%, #7a61b8 100.92%);
-	border-radius: 22px;
+	border-radius: 24px;
 	padding: 14px 16px;
 }
 .why .textBox .inline .vector img
