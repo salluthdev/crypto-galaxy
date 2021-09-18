@@ -473,16 +473,16 @@ header .auth .signIn a:hover
 .why .textBox .inline .vector
 {
 	position: relative;
-	margin-right: 32px;
-	background: linear-gradient(336.28deg, #513791 2.6%, #7A61B8 100.92%);
-	border-radius: 26px;
-	padding: 12px;
+	margin-right: 20px;
+	background: linear-gradient(336.28deg, #513791 2.6%, #7a61b8 100.92%);
+	border-radius: 22px;
+	padding: 14px 16px;
 }
 .why .textBox .inline .vector img
 {
 	position: relative;
-	width: 48px;
-	height: 48px;
+	width: 42px;
+	height: 42px;
 	z-index: 1;
 }
 .why .textBox .inline h4
