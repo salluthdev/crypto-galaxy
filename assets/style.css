@@ -540,7 +540,6 @@ h2, .plan p
 
 }
 
-
 @media (max-width: 1367px)
 {
 	header .logo img
@@ -548,7 +547,7 @@ h2, .plan p
 		top: 15px;
 		width: 54px;
 	}
-	header .logo h2
+	header .logo span
 	{
 		width: 112px;
 		font-size: 22px;
@@ -641,7 +640,7 @@ h2, .plan p
 	}
 
 	/* Plan Mining */
-	.plan h2, .why .textBox h2
+	h2
 	{
 		font-size: 42px;
 	}
