@@ -319,13 +319,14 @@ header .auth .signIn a:hover
 /* Plan Mining */
 .plan, .withdrawal
 {
+	position: relative;
 	padding: 120px 60px;
 	text-align: center;
 }
 .plan .star_plan img
 {
 	position: absolute;
-	top: 750px;
+	top: 90px;
 	left: 510px;
 	width: 36px;
 	height: 36px;
