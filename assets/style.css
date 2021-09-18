@@ -83,7 +83,8 @@ header ul li a
 {
 	display: inline-block;
 }
-header ul li a:hover, header .auth .signUp a:hover
+header ul li a:hover,
+header .auth .signUp a:hover
 {
 	border-bottom: 1px solid #888fe8;
 	text-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
@@ -103,14 +104,16 @@ header .auth .signUp
 {
 	margin-right: 28px;
 }
-header .auth .signIn a, .action .card h4
+header .auth .signIn a,
+.action .card h4
 {
 	position: relative;
 	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
 	border-radius: 14px;
 	padding: 16px 32px;
 }
-header .auth .signIn a::before, .action .card h4::before
+header .auth .signIn a::before,
+.action .card h4::before
 {
 	content: '';
 	top: 0;
@@ -125,7 +128,10 @@ header .auth .signIn a::before, .action .card h4::before
   -webkit-mask-composite: destination-out;
   mask-composite: exclude;
 }
-header .auth .signIn a:hover
+header .auth .signIn a:hover,
+.action .card h4:hover,
+.content .textBox .button .mine a:hover,
+.content .textBox .button .tutorial a:hover
 {
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
 }
