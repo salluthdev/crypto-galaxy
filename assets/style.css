@@ -464,12 +464,12 @@ header .auth .signIn a:hover
 }
 .why .textBox .inline
 {
-	margin-bottom: 40px;
-	background: linear-gradient(160.52deg, #1d123a -35.58%, #2a1b54 146.57%);
 	position: relative;
+	background: linear-gradient(160.52deg, #1d123a -35.58%, #2a1b54 146.57%);
 	border-radius: 32px;
 	width: 500px;
 	padding: 20px;
+	margin-bottom: 28px;
 }
 .why .textBox .inline::before
 {
