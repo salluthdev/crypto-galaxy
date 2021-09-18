@@ -131,7 +131,7 @@ header .auth .signIn a::before,
 header .auth .signIn a:hover,
 .action .card h4:hover,
 .content .textBox .button .mine a:hover,
-.content .textBox .button .tutorial a:hover
+.content .textBox .button .tutorial a:nth-child(1):hover
 {
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
 }
