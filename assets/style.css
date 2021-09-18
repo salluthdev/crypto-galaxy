@@ -684,7 +684,7 @@ h2, .plan p
 	}
 
 	/* Plan Mining */
-	.plan h2, .why .textBox h2
+	h2
 	{
 		font-size: 38px;
 	}
