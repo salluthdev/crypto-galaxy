@@ -445,6 +445,7 @@ header .auth .signIn a:hover
 }
 .why
 {
+	position: relative;
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	justify-content: center;
@@ -456,13 +457,17 @@ header .auth .signIn a:hover
 	width: 520px;
 	height: 520px;
 }
+.why .textBox
+{
+	position: relative;
+}
 .why .star_why img
 {
 	position: absolute;
 	width: 36px;
 	height: 36px;
-	top: 1596px;
-	left: 632px;
+	top: -26px;
+	left: -40px;
 }
 .why .textBox p
 {
