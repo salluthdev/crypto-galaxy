@@ -381,7 +381,6 @@ h2, .plan p, .withdrawal .wrap h3
 	line-height: 40px;
 	background: linear-gradient(160.52deg, #1d123a -35.58%, #2a1b54 146.57%);
 	text-align: center;
-	z-index: 1;
 }
 .blur_04
 {
@@ -587,6 +586,21 @@ h2, .plan p, .withdrawal .wrap h3
 .withdrawal .wrap h3
 {
 	font-size: 28px;
+}
+.withdrawal .wrap .card
+{
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	justify-content: left;
+	width: 300px;
+	border: 1.5px solid rgba(87, 68, 136, 1);
+	border-radius: 42px;
+	margin: 20px 40px;
+	padding: 48px 48px 32px;
+	line-height: 40px;
+	background: linear-gradient(160.52deg, #1d123a -35.58%, #2a1b54 146.57%);
+	text-align: center;
 }
 
 @media (max-width: 1367px)
