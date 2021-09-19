@@ -186,11 +186,10 @@ header .auth .signIn a:hover,
 	line-height: 90px;
 	margin-top: 8px;
 }
-.content .textBox h1, .content .textBox p, .why .textBox p
+.content .textBox h1, .content .textBox p, .why .textBox p, .withdrawal p
 {
 	color: #f9f8fd;
 	letter-spacing: 2px;
-	z-index: 1;
 }
 .textBox .icon-title img
 {
