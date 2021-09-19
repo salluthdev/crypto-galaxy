@@ -170,7 +170,7 @@ header .auth .signIn a:hover,
 {
 	color: #ebe4fb;
 	font-weight: 600;
-	font-size: 18.6px;
+	font-size: 16px;
 	margin: 0;
 }
 .content .textBox .star_title img
@@ -575,6 +575,7 @@ h2, .plan p
 	margin: 0;
 	color: #a393c7;
 	letter-spacing: 1.2px;
+	font-size: 15.6px;
 }
 
 /* Withdrawal */
