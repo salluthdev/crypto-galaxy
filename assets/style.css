@@ -611,6 +611,11 @@ h2, .plan p, .withdrawal .wrap h3
 	color: #e1d4ff;
 	font-size: 20px;
 }
+.withdrawal .wrap .card .list
+{
+	display: flex;
+	justify-content: space-around;
+}
 
 @media (max-width: 1367px)
 {
