@@ -620,7 +620,10 @@ h2, .plan p, .withdrawal .wrap h3
 .withdrawal .wrap .card .list
 {
 	display: flex;
-	justify-content: space-around;
+}
+.withdrawal .wrap .card .list div
+{
+	width: 50%;
 }
 
 @media (max-width: 1367px)
