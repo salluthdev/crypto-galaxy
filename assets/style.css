@@ -641,7 +641,7 @@ h2, .plan p, .withdrawal .wrap h3
 .withdrawal .wrap .card .list h5
 {
 	font-size: 16px;
-	font-weight: 500;
+	font-weight: 400;
 	line-height: 10px;
 	letter-spacing: 0.8px;
 }
@@ -652,6 +652,7 @@ h2, .plan p, .withdrawal .wrap h3
 .withdrawal .wrap .card .list p
 {
 	font-size: 13px;
+	font-weight: 300;
 	padding: 0 10px 12px;
 	letter-spacing: 0.6px;
 }
