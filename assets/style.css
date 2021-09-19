@@ -106,7 +106,7 @@ header .auth .signUp
 	margin-right: 28px;
 }
 header .auth .signIn a,
-.action .card h4
+.card a h4
 {
 	position: relative;
 	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
@@ -114,7 +114,7 @@ header .auth .signIn a,
 	padding: 16px 32px;
 }
 header .auth .signIn a::before,
-.action .card h4::before
+.card a h4::before
 {
 	content: '';
 	top: 0;
@@ -130,7 +130,7 @@ header .auth .signIn a::before,
   mask-composite: exclude;
 }
 header .auth .signIn a:hover,
-.action .card h4:hover,
+.card a h4:hover,
 .content .textBox .button .mine a:hover,
 .content .textBox .button .tutorial a:nth-child(1):hover
 {
@@ -437,11 +437,11 @@ h2, .plan p, .withdrawal .wrap h3
 	color: #d8caff;
 	margin-bottom: 28px;
 }
-.action .card a
+.card a
 {
 	text-decoration: none;
 }
-.action .card a h4
+.card a h4
 {
 	margin: 0 auto;
 	color: #fff;
@@ -655,6 +655,10 @@ h2, .plan p, .withdrawal .wrap h3
 	font-weight: 300;
 	padding: 0 10px 12px;
 	letter-spacing: 0.6px;
+}
+.withdrawal .card h4
+{
+	width: 160px;
 }
 
 @media (max-width: 1367px)
