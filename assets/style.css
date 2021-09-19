@@ -625,6 +625,21 @@ h2, .plan p, .withdrawal .wrap h3
 {
 	width: 50%;
 }
+.withdrawal .wrap .card .list div:nth-child(1)
+{
+	border-right: 1.5px solid rgba(87, 68, 136, 1);
+}
+.withdrawal .wrap .card .list h5
+{
+	font-size: 18px;
+	padding: 20px 0 0;
+	line-height: 10px;
+}
+.withdrawal .wrap .card .list p
+{
+	font-size: 14px;
+	padding: 0 10px 20px;
+}
 
 @media (max-width: 1367px)
 {
