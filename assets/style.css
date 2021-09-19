@@ -566,7 +566,7 @@ h2, .plan p, .withdrawal .wrap h3
 .why .textBox .inline h4
 {
 	color: #e1d4ff;
-	font-size: 20px;
+	font-size: 22px;
 }
 .why .textBox .inline p
 {
@@ -609,7 +609,7 @@ h2, .plan p, .withdrawal .wrap h3
 .withdrawal .wrap .card .section h4
 {
 	color: #e1d4ff;
-	font-size: 19px;
+	font-size: 20px;
 }
 
 @media (max-width: 1367px)
