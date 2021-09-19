@@ -351,7 +351,7 @@ h2
 	font-weight: 700;
 	font-size: 48px;
 }
-h2, .plan p, .withdrawal .card h3
+h2, .plan p, .withdrawal .wrap h3
 {
 	color: #f9f8fd;
 }
@@ -578,13 +578,13 @@ h2, .plan p, .withdrawal .card h3
 }
 
 /* Withdrawal */
-.withdrawal .card
+.withdrawal .wrap
 {
 	display: flex;
 	justify-content: center;
 	padding-top: 40px;
 }
-.withdrawal .card h3
+.withdrawal .wrap h3
 {
 	font-size: 28px;
 }
