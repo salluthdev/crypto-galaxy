@@ -351,11 +351,11 @@ h2
 	font-weight: 700;
 	font-size: 48px;
 }
-h2, .plan p
+h2, .plan p, .withdrawal .card h3
 {
 	color: #f9f8fd;
 }
-.plan p
+.plan p, .withdrawal p
 {
 	padding: 16px 0 32px;
 }
@@ -582,6 +582,11 @@ h2, .plan p
 {
 	display: flex;
 	justify-content: center;
+	padding-top: 40px;
+}
+.withdrawal .card h3
+{
+	font-size: 28px;
 }
 
 @media (max-width: 1367px)
