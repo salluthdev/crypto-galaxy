@@ -578,9 +578,10 @@ h2, .plan p
 }
 
 /* Withdrawal */
-.withdrawal
+.withdrawal .card
 {
-
+	display: flex;
+	justify-content: center;
 }
 
 @media (max-width: 1367px)
