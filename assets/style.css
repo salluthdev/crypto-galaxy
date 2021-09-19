@@ -483,6 +483,10 @@ h2, .plan p
 	top: -26px;
 	left: -40px;
 }
+.why .textBox h2, .why .textBox p
+{
+	z-index: 1;
+}
 .why .textBox p
 {
 	width: 480px;
@@ -497,8 +501,8 @@ h2, .plan p
 	height: 267px;
 	top: 60px;
 	right: -20px;
-	background: #40488E;
-	filter: blur(150px);
+	background: #40488e;
+	filter: blur(180px);
 }
 .why .textBox .inline
 {
