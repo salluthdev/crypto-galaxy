@@ -642,14 +642,17 @@ h2, .plan p, .withdrawal .wrap h3
 {
 	font-size: 17px;
 	font-weight: 500;
-	padding: 20px 0 0;
 	line-height: 10px;
 	letter-spacing: 0.8px;
+}
+.withdrawal .wrap .card .list h5:nth-child(1)
+{
+	padding: 28px 0 0;
 }
 .withdrawal .wrap .card .list p
 {
 	font-size: 14px;
-	padding: 0 10px 20px;
+	padding: 0 10px 12px;
 	letter-spacing: 0.6px;
 }
 
