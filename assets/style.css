@@ -47,6 +47,7 @@ header
 	top: -210px;
 	background: #d9aafa;
 	filter: blur(350px);
+	z-index: -1;
 }
 header .logo img
 {
@@ -215,6 +216,7 @@ header .auth .signIn a:hover,
 	top: 237px;
 	background: #40488e;
 	filter: blur(150px);
+	z-index: -1;
 }
 .content .textBox .button
 {
@@ -321,6 +323,7 @@ header .auth .signIn a:hover,
 	top: 0;
 	background: #75408e;
 	filter: blur(150px);
+	z-index: -1;
 }
 
 /* Plan Mining */
@@ -390,6 +393,7 @@ h2, .plan p
 	left: -60px;
 	background: #56408e;
 	filter: blur(165px);
+	z-index: -1;
 }
 .action .card .icon
 {
@@ -456,6 +460,7 @@ h2, .plan p
 	right: -120px;
 	background: #40488e;
 	filter: blur(150px);
+	z-index: -1;
 }
 .why
 {
@@ -504,10 +509,6 @@ h2, .plan p
 	top: -26px;
 	left: -40px;
 }
-.why .textBox h2, .why .textBox p
-{
-	z-index: 1;
-}
 .why .textBox p
 {
 	width: 480px;
@@ -524,6 +525,7 @@ h2, .plan p
 	right: -20px;
 	background: #40488e;
 	filter: blur(180px);
+	z-index: -1;
 }
 .why .textBox .inline
 {
