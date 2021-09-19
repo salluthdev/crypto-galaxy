@@ -596,7 +596,7 @@ h2, .plan p, .withdrawal .wrap h3
 	border: 1.5px solid rgba(87, 68, 136, 1);
 	border-radius: 42px;
 	margin: 20px 40px;
-	padding: 20px 20px 32px;
+	padding: 0;
 	line-height: 40px;
 	background: linear-gradient(160.52deg, #1d123a -35.58%, #2a1b54 146.57%);
 	text-align: center;
@@ -604,12 +604,17 @@ h2, .plan p, .withdrawal .wrap h3
 .withdrawal .wrap .card .section
 {
 	display: flex;
-	justify-content: space-around;
+	border-bottom: 1.5px solid rgba(87, 68, 136, 1);
 }
 .withdrawal .wrap .card .section h4
 {
 	color: #e1d4ff;
 	font-size: 20px;
+	width: 50%;
+}
+.withdrawal .wrap .card .section h4:nth-child(1)
+{
+	border-right: 1.5px solid rgba(87, 68, 136, 1);
 }
 .withdrawal .wrap .card .list
 {
