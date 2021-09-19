@@ -611,6 +611,7 @@ h2, .plan p, .withdrawal .wrap h3
 	color: #e1d4ff;
 	font-size: 20px;
 	width: 50%;
+	padding: 14px;
 }
 .withdrawal .wrap .card .section h4:nth-child(1)
 {
