@@ -466,6 +466,17 @@ h2, .plan p
 	align-items: center;
 	padding: 0 60px;
 }
+.blur_06
+{
+	position: absolute;
+width: 194px;
+height: 194px;
+left: 66px;
+top: 20px;
+
+background: #936aff;
+filter: blur(210px);
+}
 .why .imgBox img
 {
 	width: 520px;
