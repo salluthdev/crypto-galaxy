@@ -386,7 +386,7 @@ h2, .plan p
 	position: absolute;
 	width: 267px;
 	height: 267px;
-	top: 1080px;
+	top: 400px;
 	left: -60px;
 	background: #56408e;
 	filter: blur(165px);
@@ -452,7 +452,7 @@ h2, .plan p
 	position: absolute;
 	width: 267px;
 	height: 267px;
-	top: 865px;
+	top: 267px;
 	right: -120px;
 	background: #40488e;
 	filter: blur(150px);
@@ -489,6 +489,17 @@ h2, .plan p
 	margin: 10px 0 48px;
 	word-spacing: 2px;
 	line-height: 32px;
+}
+.blur_06
+{
+	position: absolute;
+width: 267px;
+height: 267px;
+top: 60px;
+right: -20px;
+
+background: #40488E;
+filter: blur(150px);
 }
 .why .textBox .inline
 {
