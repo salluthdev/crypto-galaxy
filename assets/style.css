@@ -592,8 +592,7 @@ h2, .plan p, .withdrawal .wrap h3
 	position: relative;
 	display: flex;
 	flex-direction: column;
-	justify-content: left;
-	width: 300px;
+	width: 450px;
 	border: 1.5px solid rgba(87, 68, 136, 1);
 	border-radius: 42px;
 	margin: 20px 40px;
@@ -606,6 +605,11 @@ h2, .plan p, .withdrawal .wrap h3
 {
 	display: flex;
 	justify-content: space-around;
+}
+.withdrawal .wrap .card .section h4
+{
+	color: #e1d4ff;
+	font-size: 19px;
 }
 
 @media (max-width: 1367px)
