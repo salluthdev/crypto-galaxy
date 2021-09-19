@@ -481,6 +481,16 @@ h2, .plan p
 	width: 520px;
 	height: 520px;
 }
+.blur_07
+{
+	position: absolute;
+	width: 194px;
+	height: 194px;
+	left: 284px;
+	top: 277px;
+	background: #f14eff;
+	filter: blur(150px);
+}
 .why .textBox
 {
 	position: relative;
