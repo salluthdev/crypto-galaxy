@@ -490,6 +490,7 @@ h2, .plan p
 	top: 277px;
 	background: #f14eff;
 	filter: blur(150px);
+	z-index: -1;
 }
 .why .textBox
 {
