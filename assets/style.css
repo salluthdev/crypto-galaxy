@@ -202,10 +202,6 @@ header .auth .signIn a:hover,
 	line-height: 40px;
 	margin: 40px 80px 10px 0;
 }
-.content .textBox p, .plan p, .why p, .withdrawal p
-{
-	font-size: 16px;
-}
 .blur_02
 {
 	position: absolute;
