@@ -707,6 +707,7 @@ h2, .plan p, .withdrawal .wrap h3
 .lets_start .textBox p
 {
 	letter-spacing: 1.4px;
+	line-height: 32px;
 }
 .lets_start .imgBox img
 {
