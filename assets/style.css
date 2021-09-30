@@ -187,7 +187,7 @@ header .auth .signIn a:hover,
 	margin-top: 8px;
 }
 .content .textBox h1, .content .textBox p,
-.why .textBox p, .withdrawal p
+.why .textBox p, .withdrawal p, .lets_start .textBox p
 {
 	color: #f9f8fd;
 	letter-spacing: 2px;
@@ -703,6 +703,10 @@ h2, .plan p, .withdrawal .wrap h3
 .lets_start .textBox p
 {
 	width: 400px;
+}
+.lets_start .textBox p
+{
+	letter-spacing: 1.4px;
 }
 .lets_start .imgBox img
 {
