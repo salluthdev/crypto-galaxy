@@ -684,6 +684,10 @@ h2, .plan p, .withdrawal .wrap h3
 {
 	padding-bottom: 160px;
 }
+.lets_start h3
+{
+	color: #fff;
+}
 
 @media (max-width: 1367px)
 {
