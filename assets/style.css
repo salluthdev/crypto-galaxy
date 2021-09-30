@@ -672,7 +672,7 @@ h2, .plan p, .withdrawal .wrap h3
 	position: absolute;
 width: 267px;
 height: 267px;
-left: 1215px;
+right: 0;
 top: 3885px;
 
 background: #56408E;
