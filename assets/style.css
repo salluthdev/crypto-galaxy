@@ -689,6 +689,7 @@ h2, .plan p, .withdrawal .wrap h3
 }
 .lets_start .textBox h3
 {
+	width: 400px;
 	font-size: 32px;
 	color: #fff;
 }
