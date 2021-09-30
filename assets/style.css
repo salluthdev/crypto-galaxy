@@ -684,7 +684,6 @@ h2, .plan p, .withdrawal .wrap h3
 /* Lets Start */
 .lets_start
 {
-	display: flex;
 	padding-bottom: 160px;
 }
 .lets_start .textBox h3
@@ -695,7 +694,7 @@ h2, .plan p, .withdrawal .wrap h3
 }
 .lets_start .imgBox img
 {
-	width: 400px;
+	width: 360px;
 }
 
 @media (max-width: 1367px)
