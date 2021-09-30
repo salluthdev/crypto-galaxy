@@ -679,6 +679,12 @@ h2, .plan p, .withdrawal .wrap h3
 	z-index: -1;
 }
 
+/* Lets Start */
+.lets_start
+{
+	padding-bottom: 160px;
+}
+
 @media (max-width: 1367px)
 {
 	header .logo img
