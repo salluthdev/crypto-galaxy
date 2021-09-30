@@ -670,13 +670,12 @@ h2, .plan p, .withdrawal .wrap h3
 .blur_10
 {
 	position: absolute;
-width: 267px;
-height: 267px;
-right: 0;
-top: 3885px;
-
-background: #56408E;
-filter: blur(350px);
+	width: 267px;
+	height: 267px;
+	right: 0;
+	top: 3885px;
+	background: #56408E;
+	filter: blur(350px);
 }
 
 @media (max-width: 1367px)
