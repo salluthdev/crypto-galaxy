@@ -462,7 +462,6 @@ h2, .plan p, .withdrawal .wrap h3
 }
 .why
 {
-	position: relative;
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	justify-content: center;
