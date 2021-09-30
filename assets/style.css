@@ -32,7 +32,7 @@ header
 	top: 0;
 	left: 0;
 	width: 100%;
-	padding: 12px 60px 0;
+	padding: 12px 60px;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -324,6 +324,7 @@ header .auth .signIn a:hover,
 /* Plan Mining */
 .plan, .withdrawal
 {
+	padding-top: 160px !important;
 	text-align: center;
 }
 .container
