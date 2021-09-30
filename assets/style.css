@@ -461,7 +461,7 @@ h2, .plan p, .withdrawal .wrap h3
 	filter: blur(160px);
 	z-index: -1;
 }
-.why, .lets_start
+.why
 {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
