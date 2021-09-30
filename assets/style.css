@@ -453,7 +453,7 @@ h2, .plan p, .withdrawal .wrap h3
 	top: 267px;
 	right: -120px;
 	background: #40488e;
-	filter: blur(150px);
+	filter: blur(160px);
 	z-index: -1;
 }
 .why
