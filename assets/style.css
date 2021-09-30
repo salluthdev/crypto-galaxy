@@ -466,7 +466,6 @@ h2, .plan p, .withdrawal .wrap h3
 	grid-template-columns: repeat(2, 1fr);
 	justify-content: center;
 	align-items: center;
-	padding: 0 60px;
 }
 .blur_06
 {
