@@ -580,13 +580,12 @@ h2, .plan p, .withdrawal .wrap h3
 .blur_09
 {
 	position: absolute;
-width: 267px;
-height: 267px;
-left: -108px;
-top: 3379px;
-
-background: #40488E;
-filter: blur(350px);
+	width: 267px;
+	height: 267px;
+	left: -108px;
+	top: 3379px;
+	background: #40488e;
+	filter: blur(350px);
 }
 .withdrawal .wrap
 {
