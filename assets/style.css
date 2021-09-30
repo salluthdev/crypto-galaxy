@@ -690,11 +690,19 @@ h2, .plan p, .withdrawal .wrap h3
 	align-items: center;
 	padding-bottom: 160px;
 }
+.lets_start .textBox
+{
+	margin-right: 200px;
+}
 .lets_start .textBox h3
 {
 	width: 400px;
 	font-size: 34px;
 	color: #fff;
+}
+.lets_start .textBox p
+{
+	width: 400px;
 }
 .lets_start .imgBox img
 {
