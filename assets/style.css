@@ -585,7 +585,7 @@ h2, .plan p, .withdrawal .wrap h3
 	left: -108px;
 	top: 0;
 	background: #40488e;
-	filter: blur(350px);
+	filter: blur(160px);
 }
 .withdrawal .wrap
 {
