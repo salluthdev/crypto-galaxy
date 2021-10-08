@@ -664,9 +664,9 @@ h2, .plan p, .withdrawal .wrap h3
 	padding: 0 10px 12px;
 	letter-spacing: 0.6px;
 }
-.withdrawal .card h4
+.withdrawal .card a h4
 {
-	width: 160px;
+	width: 150px;
 }
 .blur_10
 {
