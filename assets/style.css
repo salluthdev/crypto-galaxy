@@ -737,6 +737,10 @@ a h4
 	text-align: center;
 	padding: 16px 0;
 }
+.blur_12
+{
+	position: absolute;
+}
 .lets_start .imgBox img
 {
 	width: 360px;
