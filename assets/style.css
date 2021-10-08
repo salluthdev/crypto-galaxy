@@ -105,8 +105,7 @@ header .auth .signUp
 {
 	margin-right: 28px;
 }
-header .auth .signIn a,
-.card a h4
+header .auth .signIn a, a h4
 {
 	position: relative;
 	background: linear-gradient(180deg, #372763 0%, #0f0723 100%);
@@ -114,7 +113,7 @@ header .auth .signIn a,
 	padding: 16px 32px;
 }
 header .auth .signIn a::before,
-.card a h4::before
+a h4::before
 {
 	content: '';
 	top: 0;
@@ -129,8 +128,7 @@ header .auth .signIn a::before,
   -webkit-mask-composite: destination-out;
   mask-composite: exclude;
 }
-header .auth .signIn a:hover,
-.card a h4:hover,
+header .auth .signIn a:hover, a h4:hover,
 .content .textBox .button .mine a:hover,
 .content .textBox .button .tutorial a:nth-child(1):hover
 {
