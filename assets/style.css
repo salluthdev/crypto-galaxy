@@ -712,13 +712,13 @@ h2, .plan p, .withdrawal .wrap h3
 }
 .lets_start .textBox a
 {
-	padding: 6px 32px;
 	border-radius: 18px;
 }
 .lets_start .textBox a h4
 {
 	color: #fff;
 	width: 180px;
+	margin-top: 20px;
 }
 .lets_start .imgBox img
 {
