@@ -710,6 +710,10 @@ h2, .plan p, .withdrawal .wrap h3
 	font-weight: 300;
 	padding-top: 24px;
 }
+.lets_start .textBox a
+{
+	text-decoration: none;
+}
 .lets_start .textBox a h4
 {
 	color: #fff;
