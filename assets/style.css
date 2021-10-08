@@ -448,6 +448,10 @@ h2, .plan p, .withdrawal .wrap h3
 	border-radius: 18px;
 	width: 150px;
 }
+a h4
+{
+	font-weight: 600;
+}
 .blur_05
 {
 	position: absolute;
@@ -721,7 +725,6 @@ h2, .plan p, .withdrawal .wrap h3
 	margin-top: 34px;
 	text-align: center;
 	padding: 16px 0;
-	font-weight: 600;
 }
 .lets_start .imgBox img
 {
