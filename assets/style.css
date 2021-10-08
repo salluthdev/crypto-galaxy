@@ -685,7 +685,7 @@ h2, .plan p, .withdrawal .wrap h3
 {
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: flex-start;
 	padding-bottom: 160px;
 }
 .lets_start .textBox
@@ -696,7 +696,7 @@ h2, .plan p, .withdrawal .wrap h3
 {
 	font-size: 34px;
 	color: #fff;
-	line-height: 52px;
+	line-height: 54px;
 }
 .lets_start .textBox h3,
 .lets_start .textBox p
@@ -718,7 +718,7 @@ h2, .plan p, .withdrawal .wrap h3
 {
 	color: #fff;
 	width: 166px;
-	margin-top: 20px;
+	margin-top: 28px;
 	text-align: center;
 	padding: 16px 0;
 }
