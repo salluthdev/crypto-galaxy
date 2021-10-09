@@ -746,6 +746,7 @@ a h4
 	top: 0;
 	left: 660px;
 	background: #936aff;
+	filter: blur(170px);
 }
 .lets_start .imgBox img
 {
