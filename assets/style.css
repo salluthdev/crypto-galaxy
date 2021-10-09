@@ -703,6 +703,7 @@ a h4
 	left: -133px;
 	background: #40488e;
 	filter: blur(170px);
+	z-index: -1;
 }
 .lets_start .textBox
 {
@@ -747,6 +748,7 @@ a h4
 	left: 660px;
 	background: #936aff;
 	filter: blur(170px);
+	z-index: -1;
 }
 .lets_start .imgBox img
 {
