@@ -58,7 +58,6 @@ header .logo img
 {
 	width: 60px;
 	object-fit: cover;
-	object-position: center;
 	margin-right: 20px;
 }
 header .logo h6
