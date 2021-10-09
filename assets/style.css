@@ -754,6 +754,10 @@ a h4
 {
 	width: 360px;
 }
+.blur_13
+{
+	position: absolute;
+}
 
 @media (max-width: 1367px)
 {
