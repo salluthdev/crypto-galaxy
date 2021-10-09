@@ -768,6 +768,7 @@ a h4
 footer
 {
 	display: grid;
+	padding: 60px;
 }
 
 @media (max-width: 1367px)
