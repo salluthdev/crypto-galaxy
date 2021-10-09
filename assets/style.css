@@ -59,13 +59,13 @@ header .logo img
 	width: 60px;
 	object-fit: cover;
 	object-position: center;
+	margin-right: 20px;
 }
 header .logo h6
 {
 	width: 112px;
 	font-size: 24px;
 	color: #fff;
-	margin-left: 20px;
 	font-weight: 800;
 	letter-spacing: 2px;
 	line-height: 30px;
@@ -797,17 +797,6 @@ footer .logo h6
 
 @media (max-width: 1367px)
 {
-	header .logo img
-	{
-		top: 15px;
-		width: 54px;
-	}
-	header .logo span
-	{
-		width: 112px;
-		font-size: 22px;
-		margin-left: 72px;
-	}
 	header ul li
 	{
 		margin: 0 36px;
