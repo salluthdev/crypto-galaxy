@@ -771,6 +771,21 @@ footer
 	grid-template-columns: repeat(4, 1fr);
 	padding: 60px;
 }
+footer .logo img
+{
+	width: 58px;
+	border-radius: 50%;
+}
+footer .logo h6
+{
+	width: 112px;
+	font-size: 24px;
+	color: #fff;
+	font-weight: 800;
+	letter-spacing: 2px;
+	line-height: 30px;
+	font-weight: 800;
+}
 
 @media (max-width: 1367px)
 {
