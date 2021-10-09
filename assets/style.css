@@ -759,6 +759,8 @@ a h4
 	position: absolute;
 	width: 194px;
 	height: 194px;
+	top: 367px;
+	right: 20px;
 }
 
 @media (max-width: 1367px)
