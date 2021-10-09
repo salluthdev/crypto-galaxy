@@ -743,6 +743,8 @@ a h4
 	position: absolute;
 	width: 194px;
 	height: 194px;
+	top: 0;
+	left: 660px;
 }
 .lets_start .imgBox img
 {
