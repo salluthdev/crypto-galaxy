@@ -762,6 +762,7 @@ a h4
 	top: 267px;
 	right: 20px;
 	background: rgba(241, 78, 255, 0.69);
+	filter: blur(165px);
 }
 
 @media (max-width: 1367px)
