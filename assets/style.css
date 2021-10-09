@@ -50,19 +50,22 @@ header
 	filter: blur(350px);
 	z-index: -1;
 }
+header .logo
+{
+	display: flex;
+}
 header .logo img
 {
-	position: absolute;
-	top: 12px;
-	width: 58px;
-	border-radius: 50%;
+	width: 60px;
+	object-fit: cover;
+	object-position: center;
 }
 header .logo h6
 {
 	width: 112px;
 	font-size: 24px;
 	color: #fff;
-	margin-left: 80px;
+	margin-left: 20px;
 	font-weight: 800;
 	letter-spacing: 2px;
 	line-height: 30px;
@@ -786,6 +789,7 @@ footer .logo h6
 	font-size: 24px;
 	color: #fff;
 	font-weight: 800;
+	padding-left: 20px;
 	letter-spacing: 2px;
 	line-height: 30px;
 	font-weight: 800;
