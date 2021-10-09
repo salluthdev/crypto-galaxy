@@ -776,6 +776,7 @@ footer
 }
 footer .flex p
 {
+	font-size: 17px;
 	color: #aea7be;
 	margin-top: 20px;
 	line-height: 26px;
