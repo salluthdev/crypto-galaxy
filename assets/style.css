@@ -771,6 +771,10 @@ footer
 	grid-template-columns: repeat(4, 1fr);
 	padding: 60px;
 }
+footer .flex
+{
+	display: flex;
+}
 footer .logo img
 {
 	width: 58px;
