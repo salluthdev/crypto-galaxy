@@ -773,6 +773,10 @@ footer
 	grid-template-columns: repeat(4, 1fr);
 	padding: 60px;
 }
+footer .flex p
+{
+	margin-top: 20px;
+}
 
 @media (max-width: 1367px)
 {
