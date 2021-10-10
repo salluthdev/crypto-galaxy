@@ -779,11 +779,14 @@ footer .column
 	display: flex;
 	flex-direction: column;
 }
+footer .column p
+{
+	color: #aea7be;
+	margin-top: 20px;
+}
 footer .column.mining p
 {
 	font-size: 17px;
-	color: #aea7be;
-	margin-top: 20px;
 	line-height: 26px;
 }
 footer .column h3
