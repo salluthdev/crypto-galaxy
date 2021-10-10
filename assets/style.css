@@ -775,6 +775,7 @@ footer
 	font-family: 'Poppins', sans-serif;
 	padding: 60px;
 	background: linear-gradient(154.57deg, #40306b 16.98%, #2a1a54 177.06%);
+	letter-spacing: 0.8px;
 }
 footer .column
 {
@@ -786,7 +787,6 @@ footer .column p
 	font-size: 16px;
 	color: #aea7be;
 	margin-top: 20px;
-	letter-spacing: 0.8px;
 }
 footer .column.mining p
 {
@@ -798,7 +798,6 @@ footer .column h3
 	color: #faf9fc;
 	font-size: 24px;
 	font-weight: 600;
-	letter-spacing: 0.8px;
 }
 footer .column .sosial_media
 {
