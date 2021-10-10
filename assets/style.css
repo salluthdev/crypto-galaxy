@@ -803,7 +803,7 @@ footer .column .sosial_media
 }
 footer .column .sosial_media img
 {
-	
+	height: 22px;
 }
 
 @media (max-width: 1367px)
