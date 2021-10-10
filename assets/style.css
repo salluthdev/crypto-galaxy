@@ -6,11 +6,11 @@
 	padding: 0;
 	box-sizing: border-box;
 	scroll-behavior: smooth;
-	font-family: 'Exo', sans-serif;
 	transition: 0.5s;
 }
 body
 {
+	font-family: 'Exo', sans-serif;
 	overflow-x: hidden;
 	background: #1e133a;
 	background-image: url('img/bg.png');
@@ -771,6 +771,7 @@ footer
 {
 	display: grid;
 	grid-template-columns: 44% 18% 18% 20%;
+	font-family: 'Poppins', sans-serif !important;
 	padding: 72px;
 	background: linear-gradient(154.57deg, #40306b 16.98%, #2a1a54 177.06%);
 }
