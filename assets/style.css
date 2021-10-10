@@ -797,6 +797,10 @@ footer .column h3
 	color: #faf9fc;
 	font-size: 24px;
 }
+footer .column .social_media
+{
+	display: flex;
+}
 
 @media (max-width: 1367px)
 {
