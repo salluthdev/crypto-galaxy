@@ -779,12 +779,16 @@ footer .column
 	display: flex;
 	flex-direction: column;
 }
-footer .mining p
+footer .column.mining p
 {
 	font-size: 17px;
 	color: #aea7be;
 	margin-top: 20px;
 	line-height: 26px;
+}
+footer .column h3
+{
+	font-size: 26px;
 }
 
 @media (max-width: 1367px)
