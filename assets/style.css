@@ -796,6 +796,7 @@ footer .column h3
 {
 	color: #faf9fc;
 	font-size: 24px;
+	font-weight: 600;
 }
 footer .column .sosial_media
 {
@@ -804,7 +805,7 @@ footer .column .sosial_media
 footer .column .sosial_media img
 {
 	height: 22px;
-	margin: 20px 20px 0 0;
+	margin: 20px 28px 0 0;
 }
 
 @media (max-width: 1367px)
