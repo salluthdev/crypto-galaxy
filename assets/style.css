@@ -774,6 +774,11 @@ footer
 	padding: 60px;
 	background: linear-gradient(154.57deg, #40306b 16.98%, #2a1a54 177.06%);
 }
+footer .column
+{
+	display: flex;
+	flex-direction: column;
+}
 footer .mining p
 {
 	font-size: 17px;
