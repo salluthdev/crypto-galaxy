@@ -1030,11 +1030,16 @@ footer .column .sosial_media img
 		line-height: 32px;
 		margin: 30px 80px 10px 0;
 	}
-
-	/* Plan Mining */
 	h2
 	{
 		font-size: 38px;
+	}
+}
+@media (min-width: 868px)
+{
+	.menu-btn, .side-bar
+	{
+		display: none;
 	}
 }
 
