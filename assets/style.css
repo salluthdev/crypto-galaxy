@@ -1051,6 +1051,10 @@ footer .column .sosial_media img
 	{
 		display: none;
 	}
+	.signIn
+	{
+		margin-right: 28px;
+	}
 }
 
 @media
