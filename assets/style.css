@@ -108,7 +108,7 @@ header .auth a, header ul li a
 }
 header .auth .signUp
 {
-	margin-right: 28px;
+	margin: 0 28px;
 }
 header .auth .signIn a, a h4
 {
