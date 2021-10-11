@@ -93,6 +93,7 @@ header .auth .signUp a:hover
 {
 	border-bottom: 1px solid #888fe8;
 	text-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
+	transition: 0.2s;
 }
 header .auth
 {
