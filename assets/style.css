@@ -1037,7 +1037,7 @@ footer .column .sosial_media img
 	}
 }
 
-@media (min-width: 868px)
+@media (min-width: 1022px)
 {
 	.menu-btn, .side-bar
 	{
@@ -1045,7 +1045,7 @@ footer .column .sosial_media img
 	}
 }
 
-@media (max-width: 867px)
+@media (max-width: 1021px)
 {
 	.navigation
 	{
