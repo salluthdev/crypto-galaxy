@@ -139,6 +139,7 @@ header .auth .signIn a:hover, a h4:hover,
 {
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
 }
+
 /* Sidebar Navigation */
 .side-bar
 {
@@ -225,6 +226,8 @@ header .auth .signIn a:hover, a h4:hover,
 	margin: 24px;
 	cursor: pointer;
 }
+
+/* Banner Content */
 .content
 {
 	position: relative;
