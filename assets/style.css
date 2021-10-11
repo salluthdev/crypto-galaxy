@@ -385,20 +385,20 @@ header .auth .signIn a:hover, a h4:hover,
 .content .imgBox img:nth-child(1)
 {
 	top: 0;
-	right: 115px;
+	right: 120px;
 	width: 370px;
 	z-index: 3;
 }
 .content .imgBox img:nth-child(2)
 {
-	top: 20px;
+	top: 24px;
 	right: 60px;
 	width: 400px;
 	z-index: 2;
 }
 .content .imgBox img:nth-child(3)
 {
-	top: 40px;
+	top: 48px;
 	right: 0;
 	width: 430px;
 	z-index: 1;
