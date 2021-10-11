@@ -1055,6 +1055,10 @@ footer .column .sosial_media img
 	{
 		margin-right: 28px;
 	}
+	.content .imgBox img
+	{
+		display: none;
+	}
 }
 
 @media
