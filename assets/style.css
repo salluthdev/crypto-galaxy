@@ -1030,7 +1030,7 @@ footer .column .sosial_media img
 
 @media (max-width: 1047px)
 {
-	
+
 }
 
 @media (min-width: 1022px)
@@ -1050,10 +1050,6 @@ footer .column .sosial_media img
 	.signIn
 	{
 		margin-right: 28px;
-	}
-	.content .imgBox img
-	{
-		display: none;
 	}
 }
 
