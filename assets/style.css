@@ -208,8 +208,6 @@ header .auth .signIn a:hover, a h4:hover,
 	position: absolute;
 	color: #fff;
 	font-size: 20px;
-	margin-right: 24px;
-	margin-top: 2px;
 	cursor: pointer;
 	right: 0;
 }
