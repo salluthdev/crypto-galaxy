@@ -1070,6 +1070,10 @@ footer .column .sosial_media img
 
 @media (max-width: 1007px)
 {
+	.content .imgBox img:nth-child(1)
+	{
+		right: 0;
+	}
 	.content .imgBox img:nth-child(2)
 	{
 		display: none;
