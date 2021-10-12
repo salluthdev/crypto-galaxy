@@ -1028,6 +1028,11 @@ footer .column .sosial_media img
 	}
 }
 
+@media (max-width: 1047px)
+{
+	
+}
+
 @media (min-width: 1022px)
 {
 	.menu-btn, .side-bar
