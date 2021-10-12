@@ -1031,12 +1031,12 @@ footer .column .sosial_media img
 	.content .imgBox img:nth-child(1)
 	{
 		top: 0;
-		right: 120px;
+		right: 40px;
 	}
 	.content .imgBox img:nth-child(2)
 	{
 		top: 24px;
-		right: 60px;
+		right: 0px;
 	}
 	.content .imgBox img:nth-child(3)
 	{
