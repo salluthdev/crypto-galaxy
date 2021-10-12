@@ -1030,9 +1030,19 @@ footer .column .sosial_media img
 {
 	.content .imgBox img:nth-child(1)
 	{
-		right: 0;
+		top: 0;
+		right: 120px;
+		width: 370px;
+		z-index: 3;
 	}
-	.content .imgBox img.shadow
+	.content .imgBox img:nth-child(2)
+	{
+		top: 24px;
+		right: 60px;
+		width: 400px;
+		z-index: 2;
+	}
+	.content .imgBox img:nth-child(3)
 	{
 		display: none;
 	}
