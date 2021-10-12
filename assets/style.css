@@ -1032,15 +1032,11 @@ footer .column .sosial_media img
 	{
 		top: 0;
 		right: 120px;
-		width: 370px;
-		z-index: 3;
 	}
 	.content .imgBox img:nth-child(2)
 	{
 		top: 24px;
 		right: 60px;
-		width: 400px;
-		z-index: 2;
 	}
 	.content .imgBox img:nth-child(3)
 	{
