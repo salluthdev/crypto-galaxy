@@ -195,15 +195,6 @@ header .auth .signIn a:hover, a h4:hover,
 	margin: 17px 20px;
 	transition: 0.3 ease;
 }
-.side-bar .menu .item .sub-menu
-{
-	background: rgba(255, 255, 255, 0.1);
-	display: none;
-}
-.side-bar .menu .item .sub-menu a 
-{
-	padding-left: 80px;
-}
 .rotate
 {
 	transform: rotate(90deg);
