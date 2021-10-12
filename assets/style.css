@@ -209,7 +209,7 @@ header .auth .signIn a:hover, a h4:hover,
 	color: #fff;
 	font-size: 20px;
 	cursor: pointer;
-	right: 0;
+	right: 40px;
 }
 .close-btn
 {
