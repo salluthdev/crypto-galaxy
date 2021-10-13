@@ -780,6 +780,7 @@ a h4
 .lets_start
 {
 	display: flex;
+	flex-wrap: wrap-reverse;
 	justify-content: center;
 	align-items: center;
 	padding-bottom: 160px;
