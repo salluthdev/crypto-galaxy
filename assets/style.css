@@ -1070,7 +1070,7 @@ footer .column .sosial_media img
 	}
 	footer
 	{
-		grid-template-columns: repeat(3, 2fr);
+		grid-template-columns: 48% auto auto;
 		grid-gap: 48px;
 	}
 }
