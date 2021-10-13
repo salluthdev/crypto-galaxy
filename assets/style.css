@@ -1095,6 +1095,20 @@ footer .column .sosial_media img
 	}
 }
 
+@media (max-width: 940px)
+{
+	.lets_start .textBox
+	{
+		flex: unset;
+		justify-content: center;
+		align-items: center;
+		align-content: center;
+		text-align: center;
+		padding-right: 0;
+		margin-right: 0;
+	}
+}
+
 @media (max-width: 927px)
 {
 	.content .imgBox img:nth-child(1)
