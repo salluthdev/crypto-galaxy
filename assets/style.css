@@ -551,6 +551,8 @@ a h4
 	filter: blur(160px);
 	z-index: -1;
 }
+
+/* Why Section */
 .why
 {
 	display: grid;
