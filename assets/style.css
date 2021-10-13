@@ -1098,15 +1098,9 @@ footer .column .sosial_media img
 
 @media (max-width: 887px)
 {
-	.content
-	{
-		flex-direction: column-reverse;
-	}
 	.content .imgBox img:nth-child(1)
 	{
-		position: relative;
-		top: unset;
-		width: 180px;
+		display: none;
 	}
 }
 
