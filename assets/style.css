@@ -1100,9 +1100,6 @@ footer .column .sosial_media img
 	.lets_start .textBox
 	{
 		flex: unset;
-		justify-content: center;
-		align-items: center;
-		align-content: center;
 		text-align: center;
 	}
 }
