@@ -799,6 +799,7 @@ a h4
 .lets_start .textBox
 {
 	margin-right: 160px;
+	flex: 1;
 }
 .lets_start .textBox h3
 {
@@ -1029,6 +1030,10 @@ footer .column .sosial_media img
 	h2
 	{
 		font-size: 38px;
+	}
+	footer
+	{
+		padding: 60px 40px;
 	}
 }
 
