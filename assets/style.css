@@ -1082,7 +1082,7 @@ footer .column .sosial_media img
 {
 	.content .imgBox img:nth-child(1)
 	{
-		display: none;
+		width: 260px;
 	}
 }
 
