@@ -1087,6 +1087,15 @@ footer .column .sosial_media img
 	}
 }
 
+@media (max-width: 927px)
+{
+	.content .imgBox img:nth-child(1)
+	{
+		top: 40px;
+		width: 220px;
+	}
+}
+
 @media
 only screen and (-webkit-min-device-pixel-ratio: 1.5),
 only screen and (-o-min-device-pixel-ratio: 3/2),
