@@ -990,6 +990,14 @@ footer .column .sosial_media img
 	}
 }
 
+@media (max-width: 1160px)
+{
+	.why
+	{
+		grid-template-columns: 1fr;
+	}
+}
+
 @media (max-width: 1127px)
 {
 	section, .container
