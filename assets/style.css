@@ -996,6 +996,10 @@ footer .column .sosial_media img
 	{
 		grid-template-columns: 1fr;
 	}
+	.why .textBox
+	{
+		margin: 0 auto;
+	}
 }
 
 @media (max-width: 1127px)
