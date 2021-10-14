@@ -1220,6 +1220,10 @@ footer .column .sosial_media img
 	{
 		display: none;
 	}
+	.side-bar .menu .item.sign-in
+	{
+		display: block;
+	}
 }
 
 @media
