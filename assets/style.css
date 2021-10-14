@@ -1016,7 +1016,10 @@ footer .column .sosial_media img
 	section, .container
 	{
 		padding: 40px;
-		letter-spacing: 1.2px;
+	}
+	.container
+	{
+		padding: 0 40px 160px;
 	}
 	header
 	{
