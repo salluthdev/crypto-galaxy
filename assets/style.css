@@ -1052,6 +1052,10 @@ footer .column .sosial_media img
 	{
 		font-size: 38px;
 	}
+	.lets_start .textBox h3
+	{
+		font-size: 36px;
+	}
 	footer
 	{
 		padding: 60px 40px;
@@ -1129,10 +1133,6 @@ footer .column .sosial_media img
 		flex: unset; 
 		text-align: center;
 	}
-	.lets_start .textBox h3
-	{
-		font-size: 36px;
-	}
 	.lets_start .textBox a h4
 	{
 		margin: 34px auto 0;
@@ -1167,6 +1167,10 @@ footer .column .sosial_media img
 	h2
 	{
 		font-size: 36px;
+	}
+	.lets_start .textBox h3
+	{
+		font-size: 34px;
 	}
 }
 
