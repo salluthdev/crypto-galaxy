@@ -1161,6 +1161,11 @@ footer .column .sosial_media img
 
 @media (max-width: 567px)
 {
+	.plan .star_plan
+	{
+		width: 100%;
+		text-align: center;
+	}
 	footer
 	{
 		grid-template-columns: 120px auto;
