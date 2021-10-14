@@ -1284,6 +1284,19 @@ footer .column .sosial_media img
 {
 	.lets_start .textBox h3,
 	.lets_start .textBox p,
+	.withdrawal .wrap .card
+	{
+		width: 100%;
+	}
+	.withdrawal .wrap
+	{
+		width: 100%;
+		display: block;
+	}
+	.withdrawal .wrap .card
+	{
+		margin: 40px 0;
+	}
 }
 
 @media (max-width: 487px)
