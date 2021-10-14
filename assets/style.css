@@ -1232,6 +1232,10 @@ footer .column .sosial_media img
 	{
 		flex-direction: column;
 	}
+	.content .textBox .button .tutorial
+	{
+		margin-left: 0;
+	}
 }
 
 @media
