@@ -1257,6 +1257,11 @@ footer .column .sosial_media img
 		width: 420px;
 		height: 420px;
 	}
+	.why .textBox p,
+	.why .textBox .inline
+	{
+		width: 100%;
+	}
 	footer
 	{
 		grid-template-columns: 120px auto;
@@ -1271,10 +1276,7 @@ footer .column .sosial_media img
 @media (max-width: 512px)
 {
 	.lets_start .textBox h3,
-	.lets_start .textBox p
-	{
-		width: 100%;
-	}
+	.lets_start .textBox p,
 }
 
 @media (max-width: 487px)
