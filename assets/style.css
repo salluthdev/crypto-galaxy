@@ -1260,6 +1260,15 @@ footer .column .sosial_media img
 	}
 }
 
+@media (max-width: 512px)
+{
+	.lets_start .textBox h3,
+	.lets_start .textBox p
+	{
+		width: 100%;
+	}
+}
+
 @media (max-width: 487px)
 {
 	header .auth .signIn
