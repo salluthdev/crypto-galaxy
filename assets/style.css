@@ -1153,6 +1153,10 @@ footer .column .sosial_media img
 
 @media (max-width: 661px)
 {
+	header
+	{
+		padding: 12px 20px;
+	}
 	section, .container
 	{
 		padding: 40px 20px;
