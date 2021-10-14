@@ -407,9 +407,12 @@ header .auth .signIn a:hover, a h4:hover,
 }
 
 /* Plan Mining */
-.plan, .withdrawal
+.plan
 {
 	padding-top: 160px !important;
+}
+.plan, .withdrawal
+{
 	text-align: center;
 }
 .container
@@ -450,7 +453,7 @@ h2, .plan p, .withdrawal .wrap h3
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
-	margin: 40px 0;
+	margin: 40px 0 0;
 }
 .action .card
 {
