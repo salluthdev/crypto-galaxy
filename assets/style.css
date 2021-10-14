@@ -1153,6 +1153,10 @@ footer .column .sosial_media img
 
 @media (max-width: 661px)
 {
+	section, .container
+	{
+		padding: 40px 20px;
+	}
 	footer
 	{
 		grid-template-columns: repeat(2, 1fr);
