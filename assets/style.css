@@ -1190,9 +1190,6 @@ footer .column .sosial_media img
 	{
 		font-size: 42px;
 	}
-}
-@media (max-width: 589px)
-{
 	.content .textBox p
 	{
 		margin-right: 0;
