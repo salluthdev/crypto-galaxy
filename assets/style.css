@@ -1174,6 +1174,10 @@ footer .column .sosial_media img
 	{
 		display: block;
 	}
+	.content .textBox h1
+	{
+		font-size: 48px;
+	}
 	.container
 	{
 		padding: 0 20px 160px;
