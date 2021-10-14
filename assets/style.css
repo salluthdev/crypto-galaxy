@@ -1231,6 +1231,7 @@ footer .column .sosial_media img
 	.content .textBox .button
 	{
 		flex-direction: column;
+		align-items: flex-start;
 	}
 	.content .textBox .button .tutorial
 	{
