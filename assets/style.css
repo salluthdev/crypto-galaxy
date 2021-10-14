@@ -1252,6 +1252,11 @@ footer .column .sosial_media img
 		width: 34px;
 		height: 34px;
 	}
+	.why .imgBox img
+	{
+		width: 360px;
+		height: 360px;
+	}
 	footer
 	{
 		grid-template-columns: 120px auto;
