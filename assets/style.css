@@ -1006,6 +1006,13 @@ footer .column .sosial_media img
 		margin: 28px auto 0;
 		text-align: center;
 	}
+	.why .textBox .star_why img
+	{
+		width: 34px;
+		height: 34px;
+		top: -28px;
+		left: 0px;
+	}
 	.why .textBox .inline .text
 	{
 		text-align: left;
