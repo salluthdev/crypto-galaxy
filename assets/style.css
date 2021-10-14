@@ -1200,6 +1200,12 @@ footer .column .sosial_media img
 
 @media (max-width: 600px)
 {
+	.content .textBox .star_title img
+	{
+		right: 12px;
+		width: 36px;
+		height: 36px;
+	}
 	.content .textBox h1
 	{
 		font-size: 42px;
