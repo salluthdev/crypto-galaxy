@@ -423,6 +423,7 @@ header .auth .signIn a:hover, a h4:hover,
 {
 	position: relative;
 	margin: auto;
+	width: 480px;
 }
 .plan .star_plan img
 {
