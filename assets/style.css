@@ -1160,6 +1160,10 @@ footer .column .sosial_media img
 		width: 38px;
 		height: 38px;
 	}
+	h2
+	{
+		font-size: 36px;
+	}
 }
 
 @media (max-width: 661px)
