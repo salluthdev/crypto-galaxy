@@ -1164,9 +1164,17 @@ footer .column .sosial_media img
 	{
 		padding: 12px 20px;
 	}
+	header .auth .signUp
+	{
+		display: none;
+	}
 	.menu-btn
 	{
 		right: 20px;
+	}
+	.side-bar .menu .item.mobile
+	{
+
 	}
 	.container
 	{
