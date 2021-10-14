@@ -440,9 +440,9 @@ h2, .plan p, .withdrawal .wrap h3
 {
 	color: #f9f8fd;
 }
-.plan p, .withdrawal p
+.plan p
 {
-	padding: 16px 0 32px;
+	padding: 16px 0 0;
 }
 .action
 {
@@ -671,6 +671,10 @@ a h4
 }
 
 /* Withdrawal */
+.withdrawal p
+{
+	padding: 16px 0 32px;
+}
 .blur_09
 {
 	position: absolute;
