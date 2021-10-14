@@ -1184,6 +1184,13 @@ footer .column .sosial_media img
 	}
 }
 
+@media (max-width: 603px)
+{
+	.content .textBox h1
+	{
+		font-size: 42px;
+	}
+}
 @media (max-width: 589px)
 {
 	.content .textBox p
