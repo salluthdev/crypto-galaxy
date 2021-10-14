@@ -164,6 +164,23 @@ header .auth .signIn a:hover, a h4:hover,
 {
 	right: 0;
 }
+.menu-btn
+{
+	position: absolute;
+	color: #fff;
+	font-size: 20px;
+	cursor: pointer;
+	right: 40px;
+}
+.close-btn
+{
+	position: absolute;
+	color: #fff;
+	font-size: 20px;
+	right: 0;
+	margin: 24px;
+	cursor: pointer;
+}
 .side-bar .menu
 {
 	width: 100%;
@@ -195,23 +212,6 @@ header .auth .signIn a:hover, a h4:hover,
 .rotate
 {
 	transform: rotate(90deg);
-}
-.menu-btn
-{
-	position: absolute;
-	color: #fff;
-	font-size: 20px;
-	cursor: pointer;
-	right: 40px;
-}
-.close-btn
-{
-	position: absolute;
-	color: #fff;
-	font-size: 20px;
-	right: 0;
-	margin: 24px;
-	cursor: pointer;
 }
 
 /* Banner Content */
