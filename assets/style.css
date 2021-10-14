@@ -1129,6 +1129,10 @@ footer .column .sosial_media img
 		flex: unset; 
 		text-align: center;
 	}
+	.lets_start .textBox h3
+	{
+		font-size: 36px;
+	}
 	.lets_start .textBox a h4
 	{
 		margin: 34px auto 0;
