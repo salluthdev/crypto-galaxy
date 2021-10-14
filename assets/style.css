@@ -1163,7 +1163,12 @@ footer .column .sosial_media img
 {
 	footer
 	{
-		grid-template-columns: 1fr;
+		grid-template-columns: 120px auto;
+	}
+	footer .mining
+	{
+		grid-column-start: 1;
+		grid-column-end: 3;
 	}
 }
 
