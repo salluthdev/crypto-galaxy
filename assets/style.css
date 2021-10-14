@@ -1005,6 +1005,10 @@ footer .column .sosial_media img
 		margin: 0 auto;
 		text-align: center;
 	}
+	.why .textBox .inline .text
+	{
+		text-align: left;
+	}
 }
 
 @media (max-width: 1127px)
