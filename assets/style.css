@@ -1163,11 +1163,7 @@ footer .column .sosial_media img
 	}
 	.menu-btn
 	{
-		position: absolute;
-		color: #fff;
-		font-size: 20px;
-		cursor: pointer;
-		right: 40px;
+		right: 20px;
 	}
 	footer
 	{
