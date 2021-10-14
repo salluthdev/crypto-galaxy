@@ -191,6 +191,11 @@ header .auth .signIn a:hover, a h4:hover,
 	position: relative;
 	cursor: pointer;
 }
+.side-bar .menu .item.sign-up,
+.side-bar .menu .item.sign-in
+{
+	display: none;
+}
 .side-bar .menu .item a 
 {
 	color: #fff;
