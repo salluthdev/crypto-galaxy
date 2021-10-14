@@ -1254,8 +1254,8 @@ footer .column .sosial_media img
 	}
 	.why .imgBox img
 	{
-		width: 360px;
-		height: 360px;
+		width: 420px;
+		height: 420px;
 	}
 	footer
 	{
@@ -1286,6 +1286,10 @@ footer .column .sosial_media img
 	.side-bar .menu .item.sign-in
 	{
 		display: block;
+	}
+	.why .imgBox img
+	{
+		width: 100%;
 	}
 }
 
