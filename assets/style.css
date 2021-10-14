@@ -1153,13 +1153,21 @@ footer .column .sosial_media img
 
 @media (max-width: 661px)
 {
+	section, .container
+	{
+		padding: 40px 20px;
+	}
 	header
 	{
 		padding: 12px 20px;
 	}
-	section, .container
+	.menu-btn
 	{
-		padding: 40px 20px;
+		position: absolute;
+		color: #fff;
+		font-size: 20px;
+		cursor: pointer;
+		right: 40px;
 	}
 	footer
 	{
