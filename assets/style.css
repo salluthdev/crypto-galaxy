@@ -1227,6 +1227,12 @@ footer .column .sosial_media img
 		width: 100%;
 		text-align: center;
 	}
+	.plan .star_plan img
+	{
+		left: 15%;
+		width: 34px;
+		height: 34px;
+	}
 	footer
 	{
 		grid-template-columns: 120px auto;
