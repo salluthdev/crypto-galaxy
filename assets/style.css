@@ -1170,9 +1170,9 @@ footer .column .sosial_media img
 	{
 		right: 20px;
 	}
-	.side-bar .menu .item.mobile
+	.side-bar .menu .item.sign-up
 	{
-
+		display: block;
 	}
 	.container
 	{
