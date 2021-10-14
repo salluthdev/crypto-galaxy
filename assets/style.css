@@ -1160,10 +1160,6 @@ footer .column .sosial_media img
 	{
 		padding: 40px 20px;
 	}
-	.container
-	{
-		padding: 0 20px 160px;
-	}
 	header
 	{
 		padding: 12px 20px;
@@ -1171,6 +1167,10 @@ footer .column .sosial_media img
 	.menu-btn
 	{
 		right: 20px;
+	}
+	.container
+	{
+		padding: 0 20px 160px;
 	}
 	footer
 	{
