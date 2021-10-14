@@ -1165,18 +1165,26 @@ footer .column .sosial_media img
 	{
 		right: 20px;
 	}
-	.content .textBox p
-	{
-		margin-right: 0;
-	}
 	footer
 	{
 		grid-template-columns: repeat(2, 1fr);
 	}
 }
 
+@media (max-width: 589px)
+{
+	.content .textBox p
+	{
+		margin-right: 0;
+	}
+}
+
 @media (max-width: 567px)
 {
+	.content .textBox p
+	{
+		margin-right: 0;
+	}
 	.plan .star_plan
 	{
 		width: 100%;
