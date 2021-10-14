@@ -192,13 +192,6 @@ header .auth .signIn a:hover, a h4:hover,
 {
 	margin-right: 14px;
 }
-.side-bar .menu .item a .dropdown
-{
-	position: absolute;
-	right: 0;
-	margin: 17px 20px;
-	transition: 0.3 ease;
-}
 .rotate
 {
 	transform: rotate(90deg);
