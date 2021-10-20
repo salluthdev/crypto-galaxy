@@ -1327,6 +1327,10 @@ footer .column .sosial_media img
 		margin-top: 24px;
 		margin-left: 0;
 	}
+	.plan .star_plan img
+	{
+		left: 10%;
+	}
 }
 
 @media
