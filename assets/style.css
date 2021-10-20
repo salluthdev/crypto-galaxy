@@ -1333,6 +1333,14 @@ footer .column .sosial_media img
 	}
 }
 
+@media (max-width: 380px)
+{
+	.plan .star_plan img
+	{
+		left: 6%;
+	}
+}
+
 @media
 only screen and (-webkit-min-device-pixel-ratio: 1.5),
 only screen and (-o-min-device-pixel-ratio: 3/2),
