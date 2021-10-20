@@ -1331,6 +1331,10 @@ footer .column .sosial_media img
 	{
 		left: 10%;
 	}
+	.action .card
+	{
+		margin: 40px 0;
+	}
 }
 
 @media (max-width: 380px)
