@@ -1293,6 +1293,10 @@ footer .column .sosial_media img
 		width: 100%;
 		display: block;
 	}
+	.withdrawal .wrap h3
+	{
+		margin-top: 28px;
+	}
 	.withdrawal .wrap .card
 	{
 		margin: 40px 0;
