@@ -877,6 +877,7 @@ footer .column p
 	font-size: 16px;
 	color: #aea7be;
 	margin-top: 20px;
+	cursor: pointer;
 }
 footer .column.mining p
 {
