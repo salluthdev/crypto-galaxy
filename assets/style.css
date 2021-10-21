@@ -89,7 +89,8 @@ header ul li a
 	display: inline-block;
 }
 header ul li a:hover,
-header .auth .signUp a:hover
+header .auth .signUp a:hover,
+.content .textBox .button .tutorial:hover > a
 {
 	border-bottom: 1px solid #888fe8;
 	text-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
