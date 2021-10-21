@@ -883,6 +883,7 @@ footer .column.mining p
 {
 	font-size: 17px;
 	line-height: 30px;
+	cursor: unset;
 }
 footer .column h3
 {
