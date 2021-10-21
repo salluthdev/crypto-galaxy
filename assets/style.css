@@ -137,11 +137,18 @@ a h4::before
   -webkit-mask-composite: destination-out;
   mask-composite: exclude;
 }
+header .auth .signIn a, a h4,
+.content .textBox .button .mine a,
+.content .textBox .button .tutorial a:nth-child(1)
+{
+	transition: transform .2s;
+}
 header .auth .signIn a:hover, a h4:hover,
 .content .textBox .button .mine a:hover,
 .content .textBox .button .tutorial a:nth-child(1):hover
 {
 	box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
+	transform: scale(1.06);
 }
 
 /* Sidebar Navigation */
