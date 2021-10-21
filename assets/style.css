@@ -110,10 +110,6 @@ header .auth .signUp
 {
 	margin: 0 28px;
 }
-/*header .auth .signIn
-{
-	transition: unset;
-}*/
 header .auth .signIn a, a h4
 {
 	position: relative;
