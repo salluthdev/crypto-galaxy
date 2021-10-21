@@ -131,11 +131,11 @@ a h4::before
 	right: 0;
 	position: absolute;
 	border-radius: 14px;
-  border: 1.5px solid transparent;
-  background: linear-gradient(180deg,rgba(180, 112, 255, 1),rgba(255, 54, 143, 1)) border-box;
-  -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
-  -webkit-mask-composite: destination-out;
-  mask-composite: exclude;
+	border: 1.5px solid transparent;
+  	background: linear-gradient(180deg,rgba(180, 112, 255, 1),rgba(255, 54, 143, 1)) border-box;
+  	-webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+  	-webkit-mask-composite: destination-out;
+  	mask-composite: exclude;
 }
 header .auth .signIn a, a h4,
 .content .textBox .button .mine a,
