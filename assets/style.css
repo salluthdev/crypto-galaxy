@@ -642,11 +642,11 @@ a h4
 	right: 0;
 	position: absolute;
 	border-radius: 32px;
-  border: 1.5px solid transparent;
-  background: linear-gradient(153.51deg, #473280 -75.44%, #3A2867 118.22%) border-box;
-  -webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
-  -webkit-mask-composite: destination-out;
-  mask-composite: exclude;
+  	border: 1.5px solid transparent;
+  	background: linear-gradient(153.51deg, #473280 -75.44%, #3A2867 118.22%) border-box;
+  	-webkit-mask: linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+  	-webkit-mask-composite: destination-out;
+  	mask-composite: exclude;
 }
 .why .textBox .inline .vector
 {
