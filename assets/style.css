@@ -90,7 +90,7 @@ header ul li a
 }
 header ul li a:hover,
 header .auth .signUp a:hover,
-.content .textBox .button .tutorial:hover > a
+.content .textBox .button .tutorial:hover > a:nth-child(2)
 {
 	border-bottom: 1px solid #888fe8;
 	text-shadow: 0 0 4px rgba(0, 0, 0, 0.2), 0 8px 20px rgba(0, 0, 0, 0.2);
