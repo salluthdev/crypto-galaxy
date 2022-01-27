@@ -1,6 +1,3 @@
-let menutoggle = document.querySelector('.toggle');
-let navigation = document.querySelector('.navigation');
-
 $(document).ready(function(){
 	$('.menu-btn').click(function(){
 		$('.side-bar').addClass('active');
